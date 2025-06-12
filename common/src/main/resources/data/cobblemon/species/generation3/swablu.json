@@ -5,7 +5,8 @@
   "secondaryType": "flying",
   "abilities": [
     "naturalcure",
-    "h:cloudnine"
+    "cloudnine",
+    "h:fluffy"
   ],
   "baseStats": {
     "hp": 45,

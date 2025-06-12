@@ -6,7 +6,7 @@
   "secondaryType": "ground",
   "abilities": [
     "guts",
-    "h:sandveil"
+    "h:battlearmor"
   ],
   "baseStats": {
     "hp": 50,

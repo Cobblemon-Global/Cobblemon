@@ -4,9 +4,9 @@
   "nationalPokedexNumber": 117,
   "primaryType": "water",
   "abilities": [
+    "swiftswim",
     "poisonpoint",
-    "sniper",
-    "h:damp"
+    "h:sniper"
   ],
   "baseStats": {
     "hp": 55,

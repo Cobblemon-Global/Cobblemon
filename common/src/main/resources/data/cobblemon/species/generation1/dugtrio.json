@@ -4,7 +4,6 @@
   "nationalPokedexNumber": 51,
   "primaryType": "ground",
   "abilities": [
-    "sandveil",
     "arenatrap",
     "h:sandforce"
   ],

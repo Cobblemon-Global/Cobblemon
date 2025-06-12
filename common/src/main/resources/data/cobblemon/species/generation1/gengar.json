@@ -5,7 +5,8 @@
   "primaryType": "ghost",
   "secondaryType": "poison",
   "abilities": [
-    "cursedbody"
+    "cursedbody",
+    "h:levitate"
   ],
   "drops": {
     "amount": 2,

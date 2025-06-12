@@ -4,7 +4,8 @@
   "primaryType": "grass",
   "secondaryType": "steel",
   "abilities": [
-    "beastboost"
+    "beastboost",
+    "h:sharpness"
   ],
   "baseStats": {
     "hp": 59,

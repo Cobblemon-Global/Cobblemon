@@ -2,11 +2,11 @@
   "implemented": true,
   "name": "Rhyperior",
   "nationalPokedexNumber": 464,
-  "primaryType": "ground",
-  "secondaryType": "rock",
+  "primaryType": "rock",
+  "secondaryType": "ground",
   "abilities": [
-    "lightningrod",
     "solidrock",
+    "sturdy",
     "h:reckless"
   ],
   "drops": {

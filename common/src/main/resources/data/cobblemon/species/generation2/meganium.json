@@ -5,7 +5,8 @@
   "primaryType": "grass",
   "abilities": [
     "overgrow",
-    "h:leafguard"
+    "naturalcure",
+    "h:triage"
   ],
   "baseStats": {
     "hp": 80,
@@ -214,5 +215,6 @@
   "height": 18,
   "weight": 1005,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "secondaryType": "fairy"
 }

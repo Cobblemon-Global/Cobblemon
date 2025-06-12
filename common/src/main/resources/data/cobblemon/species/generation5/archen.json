@@ -5,7 +5,8 @@
   "primaryType": "rock",
   "secondaryType": "flying",
   "abilities": [
-    "defeatist"
+    "defeatist",
+    "h:earlybird"
   ],
   "drops": {
     "amount": 2,
@@ -40,7 +41,7 @@
       "depth": "normal",
       "light": "0-4"
     },
-    "moving" : {
+    "moving": {
       "walk": {
         "walkSpeed": 0.15
       }

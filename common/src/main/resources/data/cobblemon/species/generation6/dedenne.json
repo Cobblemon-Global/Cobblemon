@@ -5,8 +5,8 @@
   "secondaryType": "fairy",
   "abilities": [
     "cheekpouch",
-    "pickup",
-    "h:plus"
+    "static",
+    "h:lightningrod"
   ],
   "baseStats": {
     "hp": 67,

@@ -10,12 +10,12 @@
     "h:sheerforce"
   ],
   "baseStats": {
-    "hp": 80,
+    "hp": 95,
     "attack": 120,
     "defence": 75,
     "special_attack": 75,
     "special_defence": 75,
-    "speed": 60
+    "speed": 65
   },
   "catchRate": 45,
   "maleRatio": 0.5,

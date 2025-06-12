@@ -6,7 +6,7 @@
   "secondaryType": "ground",
   "abilities": [
     "torrent",
-    "h:damp"
+    "h:battlearmor"
   ],
   "baseStats": {
     "hp": 100,

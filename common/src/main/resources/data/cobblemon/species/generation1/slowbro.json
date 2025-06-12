@@ -6,7 +6,7 @@
   "secondaryType": "psychic",
   "abilities": [
     "oblivious",
-    "owntempo",
+    "shellarmor",
     "h:regenerator"
   ],
   "drops": {

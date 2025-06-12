@@ -3,8 +3,9 @@
   "nationalPokedexNumber": 514,
   "primaryType": "fire",
   "abilities": [
-    "gluttony",
-    "h:blaze"
+    "blaze",
+    "flashfire",
+    "h:punkrock"
   ],
   "drops": {
     "amount": 3,

@@ -4,7 +4,8 @@
   "primaryType": "bug",
   "secondaryType": "fighting",
   "abilities": [
-    "protosynthesis"
+    "protosynthesis",
+    "h:flamebody"
   ],
   "baseStats": {
     "hp": 85,

@@ -6,7 +6,7 @@
   "abilities": [
     "pickup",
     "technician",
-    "h:unnerve"
+    "h:rattled"
   ],
   "baseStats": {
     "hp": 40,

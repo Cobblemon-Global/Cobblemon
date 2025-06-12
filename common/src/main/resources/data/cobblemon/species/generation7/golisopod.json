@@ -5,7 +5,9 @@
   "primaryType": "bug",
   "secondaryType": "water",
   "abilities": [
-    "emergencyexit"
+    "emergencyexit",
+    "shellarmor",
+    "h:toughclaws"
   ],
   "drops": {
     "amount": 1,

@@ -7,7 +7,9 @@
     "torrent",
     "h:shellarmor"
   ],
-  "features": ["region_bias"],
+  "features": [
+    "region_bias"
+  ],
   "forms": [
     {
       "name": "Hisui Bias",
@@ -207,7 +209,9 @@
       },
       "height": 8,
       "weight": 245,
-      "aspects": ["region-bias-hisui"],
+      "aspects": [
+        "region-bias-hisui"
+      ],
       "cannotDynamax": false
     }
   ],

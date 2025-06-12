@@ -5,7 +5,9 @@
   "primaryType": "bug",
   "secondaryType": "water",
   "abilities": [
-    "wimpout"
+    "wimpout",
+    "shellarmor",
+    "h:runaway"
   ],
   "drops": {
     "amount": 1,

@@ -4,12 +4,12 @@
   "nationalPokedexNumber": 107,
   "primaryType": "fighting",
   "abilities": [
-    "keeneye",
     "ironfist",
-    "h:innerfocus"
+    "innerfocus",
+    "h:guts"
   ],
   "baseStats": {
-    "hp": 50,
+    "hp": 60,
     "attack": 105,
     "defence": 79,
     "special_attack": 35,

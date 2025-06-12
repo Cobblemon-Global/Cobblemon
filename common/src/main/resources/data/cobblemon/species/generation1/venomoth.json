@@ -2,12 +2,12 @@
   "implemented": true,
   "name": "Venomoth",
   "nationalPokedexNumber": 49,
-  "primaryType": "bug",
-  "secondaryType": "poison",
+  "primaryType": "poison",
+  "secondaryType": "bug",
   "abilities": [
-    "shielddust",
-    "tintedlens",
-    "h:wonderskin"
+    "compoundeyes",
+    "wonderskin",
+    "h:tintedlens"
   ],
   "baseStats": {
     "hp": 70,

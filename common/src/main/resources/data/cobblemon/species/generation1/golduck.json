@@ -14,7 +14,7 @@
     "defence": 78,
     "special_attack": 95,
     "special_defence": 80,
-    "speed": 85
+    "speed": 90
   },
   "catchRate": 75,
   "maleRatio": 0.5,
@@ -276,5 +276,6 @@
   "height": 17,
   "weight": 766,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "secondaryType": "psychic"
 }

@@ -4,6 +4,7 @@
   "primaryType": "bug",
   "abilities": [
     "shedskin",
+    "swarm",
     "h:overcoat"
   ],
   "drops": {

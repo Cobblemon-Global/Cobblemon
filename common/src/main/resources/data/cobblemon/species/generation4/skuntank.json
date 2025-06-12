@@ -4,9 +4,9 @@
   "primaryType": "poison",
   "secondaryType": "dark",
   "abilities": [
-    "stench",
+    "neutralizinggas",
     "aftermath",
-    "h:keeneye"
+    "h:poisontouch"
   ],
   "drops": {
     "amount": 1,

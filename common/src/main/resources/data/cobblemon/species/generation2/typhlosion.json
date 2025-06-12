@@ -362,5 +362,6 @@
   "height": 17,
   "weight": 795,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "secondaryType": "ground"
 }

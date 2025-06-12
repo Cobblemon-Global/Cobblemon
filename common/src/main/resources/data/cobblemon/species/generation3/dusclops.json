@@ -5,6 +5,7 @@
   "primaryType": "ghost",
   "abilities": [
     "pressure",
+    "cursedbody",
     "h:frisk"
   ],
   "drops": {

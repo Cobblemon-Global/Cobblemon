@@ -6,6 +6,7 @@
   "secondaryType": "grass",
   "abilities": [
     "suctioncups",
+    "waterabsorb",
     "h:stormdrain"
   ],
   "baseStats": {

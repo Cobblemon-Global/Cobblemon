@@ -4,7 +4,8 @@
   "primaryType": "ghost",
   "secondaryType": "fairy",
   "abilities": [
-    "protosynthesis"
+    "protosynthesis",
+    "h:levitate"
   ],
   "baseStats": {
     "hp": 55,

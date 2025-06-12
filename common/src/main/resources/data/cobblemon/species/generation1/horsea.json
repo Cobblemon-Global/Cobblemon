@@ -5,8 +5,8 @@
   "primaryType": "water",
   "abilities": [
     "swiftswim",
-    "sniper",
-    "h:damp"
+    "damp",
+    "h:sniper"
   ],
   "baseStats": {
     "hp": 30,

@@ -4,8 +4,8 @@
   "nationalPokedexNumber": 314,
   "primaryType": "bug",
   "abilities": [
-    "oblivious",
-    "tintedlens",
+    "illuminate",
+    "swarm",
     "h:prankster"
   ],
   "drops": {
@@ -22,7 +22,7 @@
     ]
   },
   "baseStats": {
-    "hp": 65,
+    "hp": 75,
     "attack": 47,
     "defence": 75,
     "special_attack": 73,

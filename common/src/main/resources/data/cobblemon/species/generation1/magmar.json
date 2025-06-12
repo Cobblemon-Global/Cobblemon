@@ -5,7 +5,8 @@
   "primaryType": "fire",
   "abilities": [
     "flamebody",
-    "h:vitalspirit"
+    "vitalspirit",
+    "h:megalauncher"
   ],
   "baseStats": {
     "hp": 65,

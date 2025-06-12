@@ -4,7 +4,7 @@
   "primaryType": "electric",
   "secondaryType": "fighting",
   "abilities": [
-    "voltabsorb",
+    "static",
     "naturalcure",
     "h:ironfist"
   ],

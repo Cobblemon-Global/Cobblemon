@@ -4,8 +4,9 @@
   "nationalPokedexNumber": 239,
   "primaryType": "electric",
   "abilities": [
-    "static",
-    "h:vitalspirit"
+    "motordrive",
+    "vitalspirit",
+    "h:ironfist"
   ],
   "baseStats": {
     "hp": 45,

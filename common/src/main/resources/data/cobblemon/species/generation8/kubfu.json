@@ -3,8 +3,7 @@
   "nationalPokedexNumber": 891,
   "primaryType": "fighting",
   "abilities": [
-    "innerfocus",
-    "h:noguard"
+    "innerfocus"
   ],
   "baseStats": {
     "hp": 60,

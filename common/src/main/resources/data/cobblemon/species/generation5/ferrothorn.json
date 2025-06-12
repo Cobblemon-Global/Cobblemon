@@ -5,8 +5,7 @@
   "primaryType": "grass",
   "secondaryType": "steel",
   "abilities": [
-    "ironbarbs",
-    "h:anticipation"
+    "ironbarbs"
   ],
   "drops": {
     "amount": 4,
@@ -49,7 +48,7 @@
       "depth": "normal",
       "light": "0-4"
     },
-    "moving" : {
+    "moving": {
       "walk": {
         "walkSpeed": 0.16
       }

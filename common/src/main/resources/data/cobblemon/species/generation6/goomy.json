@@ -6,7 +6,7 @@
   "abilities": [
     "sapsipper",
     "hydration",
-    "h:gooey"
+    "h:poisonheal"
   ],
   "baseStats": {
     "hp": 45,
@@ -19,7 +19,9 @@
   "catchRate": 45,
   "maleRatio": 0.5,
   "shoulderMountable": false,
-  "features": ["region_bias"],
+  "features": [
+    "region_bias"
+  ],
   "forms": [
     {
       "name": "Hisui Bias",
@@ -177,7 +179,9 @@
       },
       "height": 3,
       "weight": 28,
-      "aspects": ["region-bias-hisui"],
+      "aspects": [
+        "region-bias-hisui"
+      ],
       "cannotDynamax": false,
       "drops": {
         "amount": 2,

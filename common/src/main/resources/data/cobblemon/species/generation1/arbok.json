@@ -4,9 +4,9 @@
   "nationalPokedexNumber": 24,
   "primaryType": "poison",
   "abilities": [
-    "intimidate",
     "shedskin",
-    "h:unnerve"
+    "intimidate",
+    "h:strongjaw"
   ],
   "baseStats": {
     "hp": 60,

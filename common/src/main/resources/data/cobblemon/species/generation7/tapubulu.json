@@ -4,8 +4,8 @@
   "primaryType": "grass",
   "secondaryType": "fairy",
   "abilities": [
-    "grassysurge",
-    "h:telepathy"
+    "telepathy",
+    "h:grassysurge"
   ],
   "baseStats": {
     "hp": 70,

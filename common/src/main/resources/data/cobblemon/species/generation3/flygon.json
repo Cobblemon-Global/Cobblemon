@@ -5,13 +5,14 @@
   "primaryType": "ground",
   "secondaryType": "dragon",
   "abilities": [
-    "levitate"
+    "levitate",
+    "h:tintedlens"
   ],
   "baseStats": {
     "hp": 80,
     "attack": 100,
     "defence": 80,
-    "special_attack": 80,
+    "special_attack": 100,
     "special_defence": 80,
     "speed": 100
   },

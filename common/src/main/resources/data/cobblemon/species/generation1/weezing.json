@@ -5,8 +5,7 @@
   "primaryType": "poison",
   "abilities": [
     "levitate",
-    "neutralizinggas",
-    "h:stench"
+    "h:neutralizinggas"
   ],
   "baseStats": {
     "hp": 65,

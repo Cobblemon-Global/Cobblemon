@@ -6,7 +6,7 @@
   "abilities": [
     "intimidate",
     "quickfeet",
-    "h:rattled"
+    "h:guts"
   ],
   "drops": {
     "amount": 3,
@@ -26,8 +26,8 @@
     "attack": 120,
     "defence": 75,
     "special_attack": 60,
-    "special_defence": 60,
-    "speed": 45
+    "special_defence": 70,
+    "speed": 65
   },
   "catchRate": 75,
   "maleRatio": 0.25,

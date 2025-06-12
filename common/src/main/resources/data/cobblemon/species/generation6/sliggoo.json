@@ -6,7 +6,7 @@
   "abilities": [
     "sapsipper",
     "hydration",
-    "h:gooey"
+    "h:poisonheal"
   ],
   "baseStats": {
     "hp": 68,

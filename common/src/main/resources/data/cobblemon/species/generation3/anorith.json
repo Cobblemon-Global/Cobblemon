@@ -6,7 +6,8 @@
   "secondaryType": "bug",
   "abilities": [
     "battlearmor",
-    "h:swiftswim"
+    "swiftswim",
+    "h:toughclaws"
   ],
   "baseStats": {
     "hp": 45,

@@ -6,8 +6,8 @@
   "secondaryType": "ground",
   "abilities": [
     "oblivious",
-    "simple",
-    "h:owntempo"
+    "owntempo",
+    "h:simple"
   ],
   "drops": {
     "amount": 2,

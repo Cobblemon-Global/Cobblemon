@@ -5,7 +5,8 @@
   "primaryType": "normal",
   "abilities": [
     "soundproof",
-    "h:rattled"
+    "scrappy",
+    "h:punkrock"
   ],
   "drops": {
     "amount": 1,

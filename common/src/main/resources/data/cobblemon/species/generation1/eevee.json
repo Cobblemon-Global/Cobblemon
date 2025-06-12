@@ -4,9 +4,8 @@
   "nationalPokedexNumber": 133,
   "primaryType": "normal",
   "abilities": [
-    "runaway",
     "adaptability",
-    "h:anticipation"
+    "h:protean"
   ],
   "baseStats": {
     "hp": 55,

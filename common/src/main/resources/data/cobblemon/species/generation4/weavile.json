@@ -6,7 +6,8 @@
   "secondaryType": "ice",
   "abilities": [
     "pressure",
-    "h:pickpocket"
+    "pickpocket",
+    "h:technician"
   ],
   "drops": {
     "amount": 3,

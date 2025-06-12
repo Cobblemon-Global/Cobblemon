@@ -4,8 +4,8 @@
   "nationalPokedexNumber": 865,
   "primaryType": "fighting",
   "abilities": [
-    "steadfast",
-    "h:scrappy"
+    "scrappy",
+    "h:sharpness"
   ],
   "drops": {
     "amount": 5,

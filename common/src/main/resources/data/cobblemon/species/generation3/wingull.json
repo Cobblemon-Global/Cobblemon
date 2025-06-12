@@ -6,8 +6,8 @@
   "secondaryType": "flying",
   "abilities": [
     "keeneye",
-    "hydration",
-    "h:raindish"
+    "waterbubble",
+    "h:lightningrod"
   ],
   "drops": {
     "amount": 3,

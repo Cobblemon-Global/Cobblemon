@@ -5,7 +5,7 @@
   "primaryType": "electric",
   "abilities": [
     "voltabsorb",
-    "h:quickfeet"
+    "h:transistor"
   ],
   "drops": {
     "amount": 2,

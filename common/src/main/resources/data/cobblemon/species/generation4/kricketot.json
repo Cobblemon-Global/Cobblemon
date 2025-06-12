@@ -5,7 +5,8 @@
   "primaryType": "bug",
   "abilities": [
     "shedskin",
-    "h:runaway"
+    "runaway",
+    "h:tintedlens"
   ],
   "drops": {
     "amount": 1,

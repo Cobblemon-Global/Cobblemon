@@ -4,8 +4,9 @@
   "primaryType": "grass",
   "secondaryType": "ice",
   "abilities": [
-    "snowwarning",
-    "h:soundproof"
+    "soundproof",
+    "evergreen",
+    "h:slushrush"
   ],
   "drops": {
     "amount": 3,

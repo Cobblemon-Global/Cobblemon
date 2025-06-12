@@ -4,7 +4,7 @@
   "primaryType": "electric",
   "secondaryType": "dragon",
   "abilities": [
-    "hadronengine"
+    "speedboost"
   ],
   "baseStats": {
     "hp": 100,

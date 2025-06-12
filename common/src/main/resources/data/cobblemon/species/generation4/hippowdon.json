@@ -4,8 +4,8 @@
   "nationalPokedexNumber": 450,
   "primaryType": "ground",
   "abilities": [
-    "sandstream",
-    "h:sandforce"
+    "sturdy",
+    "h:dryskin"
   ],
   "drops": {
     "amount": 2,

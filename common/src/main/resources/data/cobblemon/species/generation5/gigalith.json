@@ -5,7 +5,7 @@
   "primaryType": "rock",
   "abilities": [
     "sturdy",
-    "sandstream",
+    "weakarmor",
     "h:sandforce"
   ],
   "drops": {

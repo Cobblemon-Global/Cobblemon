@@ -4,6 +4,7 @@
   "primaryType": "bug",
   "secondaryType": "flying",
   "abilities": [
+    "shielddust",
     "swarm",
     "h:tintedlens"
   ],
@@ -26,7 +27,7 @@
     "defence": 50,
     "special_attack": 94,
     "special_defence": 50,
-    "speed": 66
+    "speed": 76
   },
   "catchRate": 45,
   "maleRatio": 1,

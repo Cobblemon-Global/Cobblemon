@@ -5,7 +5,8 @@
   "primaryType": "dark",
   "secondaryType": "dragon",
   "abilities": [
-    "hustle"
+    "hustle",
+    "h:sheerforce"
   ],
   "drops": {
     "amount": 3,

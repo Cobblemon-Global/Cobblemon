@@ -6,6 +6,7 @@
   "secondaryType": "poison",
   "abilities": [
     "swarm",
+    "hypercutter",
     "h:sniper"
   ],
   "baseStats": {

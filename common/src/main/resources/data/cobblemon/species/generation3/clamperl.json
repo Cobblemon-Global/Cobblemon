@@ -5,6 +5,7 @@
   "primaryType": "water",
   "abilities": [
     "shellarmor",
+    "shellarmor",
     "h:rattled"
   ],
   "baseStats": {

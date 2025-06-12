@@ -4,17 +4,17 @@
   "nationalPokedexNumber": 327,
   "primaryType": "normal",
   "abilities": [
+    "dancer",
     "owntempo",
-    "tangledfeet",
     "h:contrary"
   ],
   "baseStats": {
-    "hp": 60,
-    "attack": 60,
-    "defence": 60,
-    "special_attack": 60,
-    "special_defence": 60,
-    "speed": 60
+    "hp": 70,
+    "attack": 70,
+    "defence": 70,
+    "special_attack": 70,
+    "special_defence": 70,
+    "speed": 70
   },
   "catchRate": 255,
   "maleRatio": 0.5,

@@ -5,8 +5,8 @@
   "primaryType": "water",
   "abilities": [
     "shellarmor",
-    "skilllink",
-    "h:overcoat"
+    "overcoat",
+    "h:skilllink"
   ],
   "drops": {
     "amount": 2,

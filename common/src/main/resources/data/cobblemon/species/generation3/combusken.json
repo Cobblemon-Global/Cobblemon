@@ -3,7 +3,6 @@
   "name": "Combusken",
   "nationalPokedexNumber": 256,
   "primaryType": "fire",
-  "secondaryType": "fighting",
   "abilities": [
     "blaze",
     "h:speedboost"

@@ -2,8 +2,8 @@
   "implemented": true,
   "name": "Rhyhorn",
   "nationalPokedexNumber": 111,
-  "primaryType": "ground",
-  "secondaryType": "rock",
+  "primaryType": "rock",
+  "secondaryType": "ground",
   "abilities": [
     "lightningrod",
     "rockhead",

@@ -2,8 +2,8 @@
   "implemented": true,
   "name": "Sawsbuck",
   "nationalPokedexNumber": 586,
-  "primaryType": "normal",
-  "secondaryType": "grass",
+  "primaryType": "grass",
+  "secondaryType": "normal",
   "abilities": [
     "chlorophyll",
     "sapsipper",
@@ -24,11 +24,11 @@
   },
   "baseStats": {
     "hp": 80,
-    "attack": 100,
+    "attack": 110,
     "defence": 70,
     "special_attack": 60,
     "special_defence": 70,
-    "speed": 95
+    "speed": 100
   },
   "features": [
     "season"

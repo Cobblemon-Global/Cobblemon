@@ -3,6 +3,7 @@
   "nationalPokedexNumber": 766,
   "primaryType": "fighting",
   "abilities": [
+    "innerfocus",
     "receiver",
     "h:defiant"
   ],

@@ -7,15 +7,15 @@
   "abilities": [
     "swiftswim",
     "battlearmor",
-    "h:weakarmor"
+    "h:sharpness"
   ],
   "baseStats": {
-    "hp": 60,
-    "attack": 115,
+    "hp": 75,
+    "attack": 125,
     "defence": 105,
     "special_attack": 65,
     "special_defence": 70,
-    "speed": 80
+    "speed": 85
   },
   "behaviour": {
     "moving": {

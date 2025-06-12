@@ -4,7 +4,8 @@
   "nationalPokedexNumber": 200,
   "primaryType": "ghost",
   "abilities": [
-    "levitate"
+    "levitate",
+    "h:protosynthesis"
   ],
   "baseStats": {
     "hp": 60,

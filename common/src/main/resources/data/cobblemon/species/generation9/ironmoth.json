@@ -4,7 +4,8 @@
   "primaryType": "fire",
   "secondaryType": "poison",
   "abilities": [
-    "quarkdrive"
+    "quarkdrive",
+    "h:flamebody"
   ],
   "baseStats": {
     "hp": 80,

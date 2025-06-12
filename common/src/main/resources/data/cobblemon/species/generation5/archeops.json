@@ -5,7 +5,8 @@
   "primaryType": "rock",
   "secondaryType": "flying",
   "abilities": [
-    "defeatist"
+    "defeatist",
+    "h:earlybird"
   ],
   "drops": {
     "amount": 3,

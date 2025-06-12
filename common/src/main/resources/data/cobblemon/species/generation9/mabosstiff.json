@@ -5,7 +5,7 @@
   "primaryType": "dark",
   "abilities": [
     "intimidate",
-    "guarddog",
+    "runaway",
     "h:stakeout"
   ],
   "drops": {

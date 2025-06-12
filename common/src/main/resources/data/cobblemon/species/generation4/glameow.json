@@ -3,9 +3,9 @@
   "nationalPokedexNumber": 431,
   "primaryType": "normal",
   "abilities": [
-    "limber",
+    "thickfat",
     "owntempo",
-    "h:keeneye"
+    "h:defiant"
   ],
   "drops": {
     "amount": 1,

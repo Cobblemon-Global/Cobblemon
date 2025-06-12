@@ -5,7 +5,8 @@
   "primaryType": "fairy",
   "abilities": [
     "flowerveil",
-    "h:symbiosis"
+    "symbiosis",
+    "h:flowergift"
   ],
   "baseStats": {
     "hp": 44,

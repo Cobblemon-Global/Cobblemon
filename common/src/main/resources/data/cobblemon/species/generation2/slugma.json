@@ -4,9 +4,9 @@
   "nationalPokedexNumber": 218,
   "primaryType": "fire",
   "abilities": [
-    "magmaarmor",
+    "liquidooze",
     "flamebody",
-    "h:weakarmor"
+    "h:waterabsorb"
   ],
   "drops": {
     "amount": 2,

@@ -5,8 +5,8 @@
   "primaryType": "psychic",
   "abilities": [
     "insomnia",
-    "forewarn",
-    "h:innerfocus"
+    "innerfocus",
+    "h:baddreams"
   ],
   "drops": {
     "amount": 1,

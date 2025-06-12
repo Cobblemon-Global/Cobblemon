@@ -5,8 +5,8 @@
   "primaryType": "steel",
   "secondaryType": "fairy",
   "abilities": [
-    "hypercutter",
     "intimidate",
+    "hypercutter",
     "h:sheerforce"
   ],
   "baseStats": {

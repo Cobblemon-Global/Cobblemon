@@ -5,9 +5,9 @@
   "primaryType": "fire",
   "secondaryType": "rock",
   "abilities": [
-    "magmaarmor",
+    "shellarmor",
     "flamebody",
-    "h:weakarmor"
+    "h:waterabsorb"
   ],
   "drops": {
     "amount": 4,

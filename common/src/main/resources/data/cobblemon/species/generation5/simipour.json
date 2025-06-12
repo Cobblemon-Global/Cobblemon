@@ -3,8 +3,9 @@
   "nationalPokedexNumber": 516,
   "primaryType": "water",
   "abilities": [
-    "gluttony",
-    "h:torrent"
+    "torrent",
+    "stormdrain",
+    "h:tintedlens"
   ],
   "drops": {
     "amount": 3,

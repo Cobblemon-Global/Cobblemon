@@ -5,7 +5,8 @@
   "primaryType": "electric",
   "abilities": [
     "static",
-    "h:plus"
+    "plus",
+    "h:motordrive"
   ],
   "baseStats": {
     "hp": 55,

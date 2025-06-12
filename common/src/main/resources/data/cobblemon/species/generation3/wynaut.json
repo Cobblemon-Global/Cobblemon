@@ -4,8 +4,7 @@
   "nationalPokedexNumber": 360,
   "primaryType": "psychic",
   "abilities": [
-    "shadowtag",
-    "h:telepathy"
+    "shadowtag"
   ],
   "baseStats": {
     "hp": 95,

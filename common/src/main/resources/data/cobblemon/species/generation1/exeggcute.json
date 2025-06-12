@@ -6,7 +6,8 @@
   "secondaryType": "psychic",
   "abilities": [
     "chlorophyll",
-    "h:harvest"
+    "harvest",
+    "h:evergreen"
   ],
   "baseStats": {
     "hp": 60,

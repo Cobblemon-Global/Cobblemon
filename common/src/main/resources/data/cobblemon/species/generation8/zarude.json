@@ -5,7 +5,8 @@
   "primaryType": "dark",
   "secondaryType": "grass",
   "abilities": [
-    "leafguard"
+    "leafguard",
+    "h:toughclaws"
   ],
   "baseStats": {
     "hp": 105,

@@ -4,8 +4,8 @@
   "primaryType": "ice",
   "abilities": [
     "icebody",
-    "snowcloak",
-    "h:weakarmor"
+    "weakarmor",
+    "h:refrigerate"
   ],
   "drops": {
     "amount": 3,
@@ -153,5 +153,6 @@
   "height": 4,
   "weight": 57,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "secondaryType": "normal"
 }

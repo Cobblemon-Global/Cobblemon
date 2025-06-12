@@ -4,8 +4,7 @@
   "primaryType": "poison",
   "secondaryType": "psychic",
   "abilities": [
-    "toxicchain",
-    "h:frisk"
+    "toxicchain"
   ],
   "baseStats": {
     "hp": 88,

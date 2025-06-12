@@ -4,7 +4,8 @@
   "nationalPokedexNumber": 433,
   "primaryType": "psychic",
   "abilities": [
-    "levitate"
+    "levitate",
+    "h:prankster"
   ],
   "baseStats": {
     "hp": 45,

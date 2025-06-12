@@ -2,11 +2,12 @@
   "implemented": true,
   "name": "Spearow",
   "nationalPokedexNumber": 21,
-  "primaryType": "normal",
+  "primaryType": "dark",
   "secondaryType": "flying",
   "abilities": [
+    "sniper",
     "keeneye",
-    "h:sniper"
+    "h:superluck"
   ],
   "baseStats": {
     "hp": 40,

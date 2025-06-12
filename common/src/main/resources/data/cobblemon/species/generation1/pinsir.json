@@ -19,13 +19,9 @@
   "behaviour": {
     "resting": {
       "canSleep": true,
+      "willSleepOnBed": false,
       "depth": "normal",
       "light": "0-4"
-    },
-    "moving": {
-      "walk": {
-        "walkSpeed": 0.14
-      }
     }
   },
   "catchRate": 45,
@@ -83,14 +79,6 @@
   "eggGroups": [
     "bug"
   ],
-  "behaviour": {
-    "resting": {
-      "canSleep": true,
-      "willSleepOnBed": false,
-      "depth": "normal",
-      "light": "0-4"
-    }
-  },
   "moves": [
     "1:harden",
     "1:visegrip",

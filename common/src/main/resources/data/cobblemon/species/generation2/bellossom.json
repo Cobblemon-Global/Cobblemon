@@ -2,10 +2,11 @@
   "implemented": true,
   "name": "Bellossom",
   "nationalPokedexNumber": 182,
-  "primaryType": "grass",
+  "primaryType": "fire",
   "abilities": [
     "chlorophyll",
-    "h:healer"
+    "flashfire",
+    "h:dancer"
   ],
   "drops": {
     "amount": 2,
@@ -22,9 +23,9 @@
   },
   "baseStats": {
     "hp": 75,
-    "attack": 80,
+    "attack": 70,
     "defence": 95,
-    "special_attack": 90,
+    "special_attack": 100,
     "special_defence": 100,
     "speed": 50
   },
@@ -184,5 +185,6 @@
   "height": 4,
   "weight": 58,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "secondaryType": "grass"
 }

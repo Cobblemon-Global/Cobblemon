@@ -8,12 +8,12 @@
     "h:voltabsorb"
   ],
   "baseStats": {
-    "hp": 60,
+    "hp": 70,
     "attack": 40,
     "defence": 50,
     "special_attack": 75,
     "special_defence": 85,
-    "speed": 95
+    "speed": 105
   },
   "catchRate": 200,
   "maleRatio": 0.5,

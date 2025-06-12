@@ -4,7 +4,8 @@
   "primaryType": "ground",
   "secondaryType": "fighting",
   "abilities": [
-    "protosynthesis"
+    "protosynthesis",
+    "h:sturdy"
   ],
   "baseStats": {
     "hp": 115,

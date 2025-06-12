@@ -5,9 +5,9 @@
   "primaryType": "fire",
   "secondaryType": "ground",
   "abilities": [
-    "magmaarmor",
     "solidrock",
-    "h:angerpoint"
+    "angerpoint",
+    "h:simple"
   ],
   "drops": {
     "amount": 2,

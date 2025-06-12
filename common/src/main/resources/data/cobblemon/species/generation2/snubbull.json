@@ -5,8 +5,8 @@
   "primaryType": "fairy",
   "abilities": [
     "intimidate",
-    "runaway",
-    "h:rattled"
+    "quickfeet",
+    "h:guts"
   ],
   "drops": {
     "amount": 2,

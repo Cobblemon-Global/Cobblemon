@@ -4,8 +4,7 @@
   "primaryType": "poison",
   "secondaryType": "fairy",
   "abilities": [
-    "toxicchain",
-    "h:technician"
+    "toxicchain"
   ],
   "baseStats": {
     "hp": 88,

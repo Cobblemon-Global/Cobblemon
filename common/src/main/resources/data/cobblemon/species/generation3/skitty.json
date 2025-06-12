@@ -3,9 +3,9 @@
   "nationalPokedexNumber": 300,
   "primaryType": "normal",
   "abilities": [
-    "cutecharm",
+    "simple",
     "normalize",
-    "h:wonderskin"
+    "h:prankster"
   ],
   "baseStats": {
     "hp": 50,
@@ -13,7 +13,7 @@
     "defence": 45,
     "special_attack": 35,
     "special_defence": 35,
-    "speed": 50
+    "speed": 60
   },
   "catchRate": 255,
   "maleRatio": 0.25,

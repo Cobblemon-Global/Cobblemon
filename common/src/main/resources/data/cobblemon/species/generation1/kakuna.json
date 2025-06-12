@@ -6,7 +6,7 @@
   "secondaryType": "poison",
   "abilities": [
     "shedskin",
-    "h:shedskin"
+    "h:overcoat"
   ],
   "baseStats": {
     "hp": 45,

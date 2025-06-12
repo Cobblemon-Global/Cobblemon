@@ -4,8 +4,8 @@
   "primaryType": "ghost",
   "abilities": [
     "insomnia",
-    "frisk",
-    "h:cursedbody"
+    "cursedbody",
+    "h:prankster"
   ],
   "baseStats": {
     "hp": 64,
@@ -239,5 +239,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "secondaryType": "normal"
 }

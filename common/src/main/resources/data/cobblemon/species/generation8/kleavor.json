@@ -6,7 +6,7 @@
   "secondaryType": "rock",
   "abilities": [
     "swarm",
-    "sheerforce",
+    "technician",
     "h:sharpness"
   ],
   "drops": {
@@ -24,10 +24,10 @@
   },
   "baseStats": {
     "hp": 70,
-    "attack": 130,
+    "attack": 135,
     "defence": 95,
     "special_attack": 45,
-    "special_defence": 75,
+    "special_defence": 70,
     "speed": 85
   },
   "catchRate": 115,

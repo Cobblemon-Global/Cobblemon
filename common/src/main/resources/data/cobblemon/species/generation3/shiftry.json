@@ -6,8 +6,8 @@
   "secondaryType": "dark",
   "abilities": [
     "chlorophyll",
-    "windrider",
-    "h:pickpocket"
+    "earlybird",
+    "h:windrider"
   ],
   "drops": {
     "amount": 4,

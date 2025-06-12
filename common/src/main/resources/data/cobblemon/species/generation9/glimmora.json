@@ -5,8 +5,8 @@
   "primaryType": "rock",
   "secondaryType": "poison",
   "abilities": [
-    "toxicdebris",
-    "h:corrosion"
+    "corrosion",
+    "h:toxicdebris"
   ],
   "drops": {
     "amount": 4,

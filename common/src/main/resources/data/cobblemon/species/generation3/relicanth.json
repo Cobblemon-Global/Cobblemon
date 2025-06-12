@@ -5,8 +5,8 @@
   "primaryType": "water",
   "secondaryType": "rock",
   "abilities": [
-    "swiftswim",
     "rockhead",
+    "swiftswim",
     "h:sturdy"
   ],
   "drops": {
@@ -24,7 +24,7 @@
   },
   "baseStats": {
     "hp": 100,
-    "attack": 90,
+    "attack": 100,
     "defence": 130,
     "special_attack": 45,
     "special_defence": 65,

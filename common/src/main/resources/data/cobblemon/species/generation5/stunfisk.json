@@ -5,7 +5,6 @@
   "secondaryType": "electric",
   "abilities": [
     "static",
-    "limber",
     "h:sandveil"
   ],
   "drops": {

@@ -8,7 +8,7 @@
   ],
   "baseStats": {
     "hp": 72,
-    "attack": 101,
+    "attack": 111,
     "defence": 100,
     "special_attack": 50,
     "special_defence": 97,
@@ -120,5 +120,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "secondaryType": "rock"
 }

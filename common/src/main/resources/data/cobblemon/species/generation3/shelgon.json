@@ -5,7 +5,7 @@
   "primaryType": "dragon",
   "abilities": [
     "rockhead",
-    "h:overcoat"
+    "h:shellarmor"
   ],
   "baseStats": {
     "hp": 65,

@@ -4,7 +4,7 @@
   "primaryType": "grass",
   "secondaryType": "normal",
   "abilities": [
-    "seedsower",
+    "evergreen",
     "h:harvest"
   ],
   "baseStats": {

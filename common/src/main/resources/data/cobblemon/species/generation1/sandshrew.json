@@ -5,7 +5,8 @@
   "primaryType": "ground",
   "abilities": [
     "sandveil",
-    "h:sandrush"
+    "sandrush",
+    "h:toughclaws"
   ],
   "drops": {
     "amount": 2,

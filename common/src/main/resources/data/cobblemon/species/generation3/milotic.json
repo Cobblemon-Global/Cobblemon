@@ -5,8 +5,7 @@
   "primaryType": "water",
   "abilities": [
     "marvelscale",
-    "competitive",
-    "h:cutecharm"
+    "h:competitive"
   ],
   "baseStats": {
     "hp": 95,

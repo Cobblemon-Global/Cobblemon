@@ -4,7 +4,8 @@
   "nationalPokedexNumber": 287,
   "primaryType": "normal",
   "abilities": [
-    "truant"
+    "truant",
+    "h:slowstart"
   ],
   "baseStats": {
     "hp": 60,

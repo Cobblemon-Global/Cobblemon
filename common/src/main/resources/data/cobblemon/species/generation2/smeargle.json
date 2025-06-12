@@ -5,8 +5,7 @@
   "primaryType": "normal",
   "abilities": [
     "owntempo",
-    "technician",
-    "h:moody"
+    "technician"
   ],
   "baseStats": {
     "hp": 55,

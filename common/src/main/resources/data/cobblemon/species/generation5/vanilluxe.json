@@ -4,8 +4,8 @@
   "primaryType": "ice",
   "abilities": [
     "icebody",
-    "snowwarning",
-    "h:weakarmor"
+    "weakarmor",
+    "h:refrigerate"
   ],
   "drops": {
     "amount": 5,

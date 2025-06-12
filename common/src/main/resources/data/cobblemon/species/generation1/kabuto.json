@@ -7,7 +7,7 @@
   "abilities": [
     "swiftswim",
     "battlearmor",
-    "h:weakarmor"
+    "h:sharpness"
   ],
   "baseStats": {
     "hp": 30,

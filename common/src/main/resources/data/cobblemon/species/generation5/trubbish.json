@@ -4,8 +4,8 @@
   "primaryType": "poison",
   "abilities": [
     "stench",
-    "stickyhold",
-    "h:aftermath"
+    "weakarmor",
+    "h:toxicdebris"
   ],
   "drops": {
     "amount": 4,

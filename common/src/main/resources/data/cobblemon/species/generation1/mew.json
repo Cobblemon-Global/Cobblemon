@@ -4,7 +4,8 @@
   "nationalPokedexNumber": 151,
   "primaryType": "psychic",
   "abilities": [
-    "synchronize"
+    "synchronize",
+    "h:oblivious"
   ],
   "baseStats": {
     "hp": 100,

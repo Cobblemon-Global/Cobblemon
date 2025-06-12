@@ -4,7 +4,8 @@
   "nationalPokedexNumber": 455,
   "primaryType": "grass",
   "abilities": [
-    "levitate"
+    "levitate",
+    "h:strongjaw"
   ],
   "drops": {
     "amount": 3,
@@ -24,12 +25,12 @@
     ]
   },
   "baseStats": {
-    "hp": 74,
+    "hp": 84,
     "attack": 100,
     "defence": 72,
     "special_attack": 90,
     "special_defence": 72,
-    "speed": 46
+    "speed": 61
   },
   "catchRate": 200,
   "maleRatio": 0.5,

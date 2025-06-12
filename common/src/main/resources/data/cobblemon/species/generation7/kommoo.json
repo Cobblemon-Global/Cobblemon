@@ -5,8 +5,8 @@
   "primaryType": "dragon",
   "secondaryType": "fighting",
   "abilities": [
-    "bulletproof",
     "soundproof",
+    "bulletproof",
     "h:overcoat"
   ],
   "baseStats": {

@@ -5,7 +5,7 @@
   "primaryType": "water",
   "abilities": [
     "waterabsorb",
-    "h:hydration"
+    "h:gooey"
   ],
   "drops": {
     "amount": 2,

@@ -2,12 +2,12 @@
   "implemented": true,
   "name": "Sealeo",
   "nationalPokedexNumber": 364,
-  "primaryType": "ice",
-  "secondaryType": "water",
+  "primaryType": "water",
+  "secondaryType": "ice",
   "abilities": [
     "thickfat",
     "icebody",
-    "h:oblivious"
+    "h:snowcloak"
   ],
   "baseStats": {
     "hp": 90,

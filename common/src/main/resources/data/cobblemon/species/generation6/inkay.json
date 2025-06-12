@@ -1,8 +1,8 @@
 {
   "name": "Inkay",
   "nationalPokedexNumber": 686,
-  "primaryType": "dark",
-  "secondaryType": "psychic",
+  "primaryType": "psychic",
+  "secondaryType": "dark",
   "abilities": [
     "contrary",
     "suctioncups",

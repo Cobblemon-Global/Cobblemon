@@ -4,7 +4,8 @@
   "primaryType": "ground",
   "secondaryType": "grass",
   "abilities": [
-    "myceliummight"
+    "myceliummight",
+    "h:effectspore"
   ],
   "baseStats": {
     "hp": 40,

@@ -3,7 +3,6 @@
   "name": "Dragonite",
   "nationalPokedexNumber": 149,
   "primaryType": "dragon",
-  "secondaryType": "flying",
   "abilities": [
     "innerfocus",
     "h:multiscale"

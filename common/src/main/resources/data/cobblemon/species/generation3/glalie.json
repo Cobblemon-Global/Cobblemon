@@ -3,9 +3,9 @@
   "nationalPokedexNumber": 362,
   "primaryType": "ice",
   "abilities": [
-    "innerfocus",
+    "snowcloak",
     "icebody",
-    "h:moody"
+    "h:intimidate"
   ],
   "baseStats": {
     "hp": 80,

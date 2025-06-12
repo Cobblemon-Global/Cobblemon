@@ -5,6 +5,7 @@
   "primaryType": "ghost",
   "abilities": [
     "levitate",
+    "cursedbody",
     "h:frisk"
   ],
   "drops": {

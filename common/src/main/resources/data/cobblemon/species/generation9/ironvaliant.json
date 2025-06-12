@@ -4,7 +4,8 @@
   "primaryType": "fairy",
   "secondaryType": "fighting",
   "abilities": [
-    "quarkdrive"
+    "quarkdrive",
+    "h:trace"
   ],
   "baseStats": {
     "hp": 74,

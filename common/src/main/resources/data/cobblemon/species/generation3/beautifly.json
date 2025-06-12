@@ -5,7 +5,8 @@
   "secondaryType": "flying",
   "abilities": [
     "swarm",
-    "h:rivalry"
+    "rivalry",
+    "h:triage"
   ],
   "baseStats": {
     "hp": 60,

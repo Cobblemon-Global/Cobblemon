@@ -4,7 +4,8 @@
   "primaryType": "electric",
   "secondaryType": "dragon",
   "abilities": [
-    "protosynthesis"
+    "protosynthesis",
+    "h:innerfocus"
   ],
   "baseStats": {
     "hp": 125,

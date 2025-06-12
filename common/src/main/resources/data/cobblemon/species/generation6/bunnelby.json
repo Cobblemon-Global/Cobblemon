@@ -2,7 +2,7 @@
   "implemented": true,
   "name": "Bunnelby",
   "nationalPokedexNumber": 659,
-  "primaryType": "normal",
+  "primaryType": "fairy",
   "abilities": [
     "pickup",
     "cheekpouch",
@@ -38,7 +38,7 @@
     "defence": 38,
     "special_attack": 32,
     "special_defence": 36,
-    "speed": 57
+    "speed": 72
   },
   "catchRate": 255,
   "maleRatio": 0.5,

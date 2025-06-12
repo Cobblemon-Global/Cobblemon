@@ -4,8 +4,9 @@
   "primaryType": "fighting",
   "secondaryType": "psychic",
   "abilities": [
-    "purepower",
-    "h:telepathy"
+    "telepathy",
+    "ironfist",
+    "h:purepower"
   ],
   "baseStats": {
     "hp": 30,

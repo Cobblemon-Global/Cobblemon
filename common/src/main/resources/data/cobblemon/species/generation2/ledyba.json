@@ -6,16 +6,16 @@
   "secondaryType": "flying",
   "abilities": [
     "swarm",
-    "earlybird",
-    "h:rattled"
+    "rattled",
+    "h:hugepower"
   ],
   "baseStats": {
     "hp": 40,
-    "attack": 20,
+    "attack": 35,
     "defence": 30,
     "special_attack": 40,
     "special_defence": 80,
-    "speed": 55
+    "speed": 70
   },
   "catchRate": 255,
   "maleRatio": 0.5,

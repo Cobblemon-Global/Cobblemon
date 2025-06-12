@@ -5,7 +5,8 @@
   "primaryType": "rock",
   "abilities": [
     "moldbreaker",
-    "h:sheerforce"
+    "sheerforce",
+    "h:rockhead"
   ],
   "drops": {
     "amount": 1,
@@ -40,7 +41,7 @@
       "depth": "normal",
       "light": "0-4"
     },
-    "moving" : {
+    "moving": {
       "walk": {
         "walkSpeed": 0.18
       }

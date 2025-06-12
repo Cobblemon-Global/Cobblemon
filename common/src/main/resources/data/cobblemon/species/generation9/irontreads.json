@@ -4,7 +4,8 @@
   "primaryType": "ground",
   "secondaryType": "steel",
   "abilities": [
-    "quarkdrive"
+    "quarkdrive",
+    "h:sturdy"
   ],
   "baseStats": {
     "hp": 90,

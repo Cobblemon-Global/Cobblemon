@@ -6,7 +6,7 @@
   "secondaryType": "ground",
   "abilities": [
     "shedskin",
-    "h:shedskin"
+    "h:battlearmor"
   ],
   "baseStats": {
     "hp": 70,

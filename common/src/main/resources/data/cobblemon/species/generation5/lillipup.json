@@ -5,8 +5,8 @@
   "primaryType": "normal",
   "abilities": [
     "vitalspirit",
-    "pickup",
-    "h:runaway"
+    "sandrush",
+    "h:scrappy"
   ],
   "drops": {
     "amount": 3,

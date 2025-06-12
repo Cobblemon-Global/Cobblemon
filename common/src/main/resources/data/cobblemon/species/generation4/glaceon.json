@@ -5,7 +5,7 @@
   "primaryType": "ice",
   "abilities": [
     "snowcloak",
-    "h:icebody"
+    "h:refrigerate"
   ],
   "drops": {
     "amount": 2,
@@ -25,8 +25,8 @@
     "attack": 60,
     "defence": 110,
     "special_attack": 130,
-    "special_defence": 95,
-    "speed": 65
+    "special_defence": 65,
+    "speed": 95
   },
   "catchRate": 45,
   "maleRatio": 0.875,

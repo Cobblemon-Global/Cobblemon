@@ -27,11 +27,11 @@
   },
   "baseStats": {
     "hp": 85,
-    "attack": 97,
+    "attack": 107,
     "defence": 66,
     "special_attack": 105,
     "special_defence": 66,
-    "speed": 65
+    "speed": 75
   },
   "catchRate": 90,
   "maleRatio": 0.5,

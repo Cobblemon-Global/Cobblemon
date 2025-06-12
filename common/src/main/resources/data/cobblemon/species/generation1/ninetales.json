@@ -5,7 +5,7 @@
   "primaryType": "fire",
   "abilities": [
     "flashfire",
-    "h:drought"
+    "h:magicguard"
   ],
   "baseStats": {
     "hp": 73,
@@ -423,5 +423,6 @@
   "height": 11,
   "weight": 199,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "secondaryType": "psychic"
 }

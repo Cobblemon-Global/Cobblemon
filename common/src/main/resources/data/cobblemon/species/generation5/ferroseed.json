@@ -5,8 +5,7 @@
   "primaryType": "grass",
   "secondaryType": "steel",
   "abilities": [
-    "ironbarbs",
-    "h:ironbarbs"
+    "ironbarbs"
   ],
   "drops": {
     "amount": 3,

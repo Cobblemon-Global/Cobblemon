@@ -4,7 +4,8 @@
   "primaryType": "rock",
   "secondaryType": "electric",
   "abilities": [
-    "quarkdrive"
+    "quarkdrive",
+    "h:battlearmor"
   ],
   "baseStats": {
     "hp": 100,

@@ -4,7 +4,8 @@
   "primaryType": "fire",
   "secondaryType": "water",
   "abilities": [
-    "waterabsorb"
+    "waterabsorb",
+    "h:magicguard"
   ],
   "baseStats": {
     "hp": 80,

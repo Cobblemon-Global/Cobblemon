@@ -5,7 +5,7 @@
   "primaryType": "fire",
   "abilities": [
     "blaze",
-    "h:thickfat"
+    "h:reckless"
   ],
   "drops": {
     "amount": 3,

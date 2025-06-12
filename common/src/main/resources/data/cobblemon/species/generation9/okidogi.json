@@ -4,8 +4,7 @@
   "primaryType": "poison",
   "secondaryType": "fighting",
   "abilities": [
-    "toxicchain",
-    "h:guarddog"
+    "toxicchain"
   ],
   "baseStats": {
     "hp": 88,

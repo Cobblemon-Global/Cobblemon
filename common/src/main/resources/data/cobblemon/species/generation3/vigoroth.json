@@ -4,7 +4,8 @@
   "nationalPokedexNumber": 288,
   "primaryType": "normal",
   "abilities": [
-    "vitalspirit"
+    "vitalspirit",
+    "h:slowstart"
   ],
   "baseStats": {
     "hp": 80,

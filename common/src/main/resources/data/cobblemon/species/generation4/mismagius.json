@@ -4,7 +4,8 @@
   "nationalPokedexNumber": 429,
   "primaryType": "ghost",
   "abilities": [
-    "levitate"
+    "levitate",
+    "h:protosynthesis"
   ],
   "drops": {
     "amount": 3,

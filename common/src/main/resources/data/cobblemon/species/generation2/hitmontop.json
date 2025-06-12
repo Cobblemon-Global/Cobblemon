@@ -5,11 +5,11 @@
   "primaryType": "fighting",
   "abilities": [
     "intimidate",
-    "technician",
-    "h:steadfast"
+    "scrappy",
+    "h:technician"
   ],
   "baseStats": {
-    "hp": 50,
+    "hp": 60,
     "attack": 95,
     "defence": 95,
     "special_attack": 35,

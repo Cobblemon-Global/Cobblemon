@@ -4,7 +4,7 @@
   "nationalPokedexNumber": 231,
   "primaryType": "ground",
   "abilities": [
-    "pickup",
+    "cutecharm",
     "h:sandveil"
   ],
   "drops": {

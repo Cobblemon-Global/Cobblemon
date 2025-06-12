@@ -6,6 +6,7 @@
   "secondaryType": "flying",
   "abilities": [
     "honeygather",
+    "runaway",
     "h:hustle"
   ],
   "drops": {

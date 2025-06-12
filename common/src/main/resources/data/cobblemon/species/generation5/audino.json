@@ -4,8 +4,8 @@
   "primaryType": "normal",
   "abilities": [
     "healer",
-    "regenerator",
-    "h:klutz"
+    "naturalcure",
+    "h:regenerator"
   ],
   "drops": {
     "amount": 2,

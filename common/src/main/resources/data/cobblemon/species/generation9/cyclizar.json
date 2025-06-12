@@ -5,7 +5,7 @@
   "secondaryType": "normal",
   "abilities": [
     "shedskin",
-    "h:regenerator"
+    "h:renegerator"
   ],
   "baseStats": {
     "hp": 70,

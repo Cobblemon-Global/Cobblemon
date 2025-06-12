@@ -4,7 +4,8 @@
   "primaryType": "bug",
   "secondaryType": "electric",
   "abilities": [
-    "levitate"
+    "levitate",
+    "h:speedboost"
   ],
   "baseStats": {
     "hp": 77,

@@ -5,8 +5,8 @@
   "secondaryType": "flying",
   "abilities": [
     "chlorophyll",
-    "leafguard",
-    "h:infiltrator"
+    "cottondown",
+    "h:windrider"
   ],
   "baseStats": {
     "hp": 35,

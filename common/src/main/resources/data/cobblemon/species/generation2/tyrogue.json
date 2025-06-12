@@ -5,11 +5,11 @@
   "primaryType": "fighting",
   "abilities": [
     "guts",
-    "steadfast",
-    "h:vitalspirit"
+    "technician",
+    "h:hugepower"
   ],
   "baseStats": {
-    "hp": 35,
+    "hp": 45,
     "attack": 35,
     "defence": 35,
     "special_attack": 35,

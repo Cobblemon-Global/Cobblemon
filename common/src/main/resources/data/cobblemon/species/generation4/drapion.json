@@ -5,8 +5,8 @@
   "secondaryType": "dark",
   "abilities": [
     "battlearmor",
-    "sniper",
-    "h:keeneye"
+    "poisonpoint",
+    "h:sniper"
   ],
   "drops": {
     "amount": 2,

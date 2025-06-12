@@ -5,8 +5,8 @@
   "primaryType": "rock",
   "secondaryType": "dark",
   "abilities": [
-    "sandstream",
-    "h:unnerve"
+    "intimidate",
+    "h:battlearmor"
   ],
   "baseStats": {
     "hp": 100,

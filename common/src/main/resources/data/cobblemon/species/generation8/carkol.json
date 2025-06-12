@@ -5,7 +5,7 @@
   "secondaryType": "fire",
   "abilities": [
     "steamengine",
-    "flamebody",
+    "heatproof",
     "h:flashfire"
   ],
   "baseStats": {

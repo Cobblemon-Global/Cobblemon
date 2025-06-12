@@ -4,9 +4,9 @@
   "nationalPokedexNumber": 438,
   "primaryType": "rock",
   "abilities": [
-    "sturdy",
     "rockhead",
-    "h:rattled"
+    "sturdy",
+    "h:disguise"
   ],
   "drops": {
     "amount": 2,

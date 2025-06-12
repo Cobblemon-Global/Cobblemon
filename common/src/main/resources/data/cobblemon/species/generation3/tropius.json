@@ -6,14 +6,14 @@
   "secondaryType": "flying",
   "abilities": [
     "chlorophyll",
-    "solarpower",
-    "h:harvest"
+    "harvest",
+    "h:evergreen"
   ],
   "baseStats": {
     "hp": 99,
-    "attack": 68,
+    "attack": 78,
     "defence": 83,
-    "special_attack": 72,
+    "special_attack": 82,
     "special_defence": 87,
     "speed": 51
   },

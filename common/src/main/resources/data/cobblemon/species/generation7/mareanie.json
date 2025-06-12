@@ -6,7 +6,7 @@
   "secondaryType": "water",
   "abilities": [
     "merciless",
-    "limber",
+    "poisonpoint",
     "h:regenerator"
   ],
   "baseStats": {

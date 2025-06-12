@@ -3,9 +3,9 @@
   "nationalPokedexNumber": 310,
   "primaryType": "electric",
   "abilities": [
-    "static",
+    "intimidate",
     "lightningrod",
-    "h:minus"
+    "h:flareboost"
   ],
   "baseStats": {
     "hp": 70,

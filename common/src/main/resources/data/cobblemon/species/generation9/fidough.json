@@ -5,7 +5,7 @@
   "primaryType": "fairy",
   "abilities": [
     "owntempo",
-    "h:klutz"
+    "h:ballfetch"
   ],
   "drops": {
     "amount": 2,

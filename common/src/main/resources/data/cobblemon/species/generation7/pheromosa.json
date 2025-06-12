@@ -4,7 +4,8 @@
   "primaryType": "bug",
   "secondaryType": "fighting",
   "abilities": [
-    "beastboost"
+    "beastboost",
+    "h:dazzling"
   ],
   "baseStats": {
     "hp": 71,

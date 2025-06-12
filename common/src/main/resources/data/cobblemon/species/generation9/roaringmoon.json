@@ -4,7 +4,8 @@
   "primaryType": "dragon",
   "secondaryType": "dark",
   "abilities": [
-    "protosynthesis"
+    "protosynthesis",
+    "h:intimidate"
   ],
   "baseStats": {
     "hp": 105,

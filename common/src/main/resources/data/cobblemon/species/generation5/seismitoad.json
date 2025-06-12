@@ -5,7 +5,7 @@
   "secondaryType": "ground",
   "abilities": [
     "swiftswim",
-    "poisontouch",
+    "hydration",
     "h:waterabsorb"
   ],
   "drops": {

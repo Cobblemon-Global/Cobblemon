@@ -4,9 +4,9 @@
   "nationalPokedexNumber": 285,
   "primaryType": "grass",
   "abilities": [
+    "quickfeet",
     "effectspore",
-    "poisonheal",
-    "h:quickfeet"
+    "h:poisonheal"
   ],
   "drops": {
     "amount": 2,

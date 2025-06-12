@@ -4,8 +4,8 @@
   "primaryType": "poison",
   "abilities": [
     "liquidooze",
-    "stickyhold",
-    "h:gluttony"
+    "gluttony",
+    "h:gooey"
   ],
   "baseStats": {
     "hp": 100,

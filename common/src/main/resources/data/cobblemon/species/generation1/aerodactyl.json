@@ -5,9 +5,8 @@
   "primaryType": "rock",
   "secondaryType": "flying",
   "abilities": [
-    "rockhead",
     "pressure",
-    "h:unnerve"
+    "h:rockhead"
   ],
   "baseStats": {
     "hp": 80,

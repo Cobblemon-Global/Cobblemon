@@ -4,7 +4,8 @@
   "primaryType": "electric",
   "secondaryType": "ground",
   "abilities": [
-    "protosynthesis"
+    "protosynthesis",
+    "h:magnetpull"
   ],
   "baseStats": {
     "hp": 85,

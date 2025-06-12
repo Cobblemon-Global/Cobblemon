@@ -5,8 +5,8 @@
   "primaryType": "poison",
   "secondaryType": "fire",
   "abilities": [
-    "corrosion",
-    "h:oblivious"
+    "oblivious",
+    "h:corrosion"
   ],
   "baseStats": {
     "hp": 68,

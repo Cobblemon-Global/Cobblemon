@@ -5,8 +5,8 @@
   "primaryType": "psychic",
   "abilities": [
     "insomnia",
-    "forewarn",
-    "h:innerfocus"
+    "innerfocus",
+    "h:baddreams"
   ],
   "drops": {
     "amount": 1,
@@ -18,10 +18,10 @@
     ]
   },
   "baseStats": {
-    "hp": 85,
+    "hp": 95,
     "attack": 73,
     "defence": 70,
-    "special_attack": 73,
+    "special_attack": 83,
     "special_defence": 115,
     "speed": 67
   },
@@ -253,5 +253,6 @@
   "height": 16,
   "weight": 756,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "secondaryType": "fighting"
 }

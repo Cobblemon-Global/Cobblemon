@@ -9,7 +9,7 @@
   ],
   "baseStats": {
     "hp": 60,
-    "attack": 90,
+    "attack": 100,
     "defence": 70,
     "special_attack": 60,
     "special_defence": 120,
@@ -31,7 +31,6 @@
       }
     }
   },
-
   "moves": [
     "1:astonish",
     "1:lick",

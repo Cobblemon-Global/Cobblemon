@@ -5,7 +5,7 @@
   "primaryType": "fire",
   "abilities": [
     "flashfire",
-    "h:drought"
+    "h:magicguard"
   ],
   "baseStats": {
     "hp": 38,

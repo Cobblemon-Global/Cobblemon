@@ -2,8 +2,8 @@
   "implemented": true,
   "name": "Diggersby",
   "nationalPokedexNumber": 660,
-  "primaryType": "normal",
-  "secondaryType": "ground",
+  "primaryType": "ground",
+  "secondaryType": "fairy",
   "abilities": [
     "pickup",
     "cheekpouch",
@@ -34,7 +34,7 @@
     ]
   },
   "baseStats": {
-    "hp": 85,
+    "hp": 100,
     "attack": 56,
     "defence": 77,
     "special_attack": 50,

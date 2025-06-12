@@ -9,12 +9,12 @@
     "h:earlybird"
   ],
   "baseStats": {
-    "hp": 75,
+    "hp": 85,
     "attack": 75,
     "defence": 55,
     "special_attack": 105,
     "special_defence": 85,
-    "speed": 30
+    "speed": 50
   },
   "catchRate": 120,
   "maleRatio": 0.5,

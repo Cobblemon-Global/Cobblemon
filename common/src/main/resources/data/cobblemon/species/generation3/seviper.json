@@ -7,12 +7,12 @@
     "h:infiltrator"
   ],
   "baseStats": {
-    "hp": 73,
-    "attack": 100,
+    "hp": 90,
+    "attack": 60,
     "defence": 60,
-    "special_attack": 100,
+    "special_attack": 115,
     "special_defence": 60,
-    "speed": 65
+    "speed": 100
   },
   "catchRate": 90,
   "maleRatio": 0.5,

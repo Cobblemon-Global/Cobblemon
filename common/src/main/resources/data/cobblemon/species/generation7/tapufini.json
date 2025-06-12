@@ -4,8 +4,8 @@
   "primaryType": "water",
   "secondaryType": "fairy",
   "abilities": [
-    "mistysurge",
-    "h:telepathy"
+    "telepathy",
+    "h:mistysurge"
   ],
   "baseStats": {
     "hp": 70,

@@ -5,9 +5,9 @@
   "primaryType": "dark",
   "secondaryType": "fairy",
   "abilities": [
-    "prankster",
+    "pickpocket",
     "frisk",
-    "h:pickpocket"
+    "h:prankster"
   ],
   "baseStats": {
     "hp": 95,

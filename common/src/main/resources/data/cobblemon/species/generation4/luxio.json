@@ -4,9 +4,9 @@
   "nationalPokedexNumber": 404,
   "primaryType": "electric",
   "abilities": [
-    "rivalry",
     "intimidate",
-    "h:guts"
+    "guts",
+    "h:strongjaw"
   ],
   "drops": {
     "amount": 2,

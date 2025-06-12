@@ -6,7 +6,8 @@
   "secondaryType": "dark",
   "abilities": [
     "pressure",
-    "h:infiltrator"
+    "infiltrator",
+    "h:darkaura"
   ],
   "drops": {
     "amount": 2,

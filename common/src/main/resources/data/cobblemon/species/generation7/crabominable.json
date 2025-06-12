@@ -21,9 +21,9 @@
   "baseStats": {
     "hp": 97,
     "attack": 132,
-    "defence": 77,
+    "defence": 87,
     "special_attack": 62,
-    "special_defence": 67,
+    "special_defence": 77,
     "speed": 43
   },
   "catchRate": 60,

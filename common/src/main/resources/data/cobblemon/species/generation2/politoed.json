@@ -6,7 +6,7 @@
   "abilities": [
     "waterabsorb",
     "damp",
-    "h:drizzle"
+    "h:regenerator"
   ],
   "baseStats": {
     "hp": 90,

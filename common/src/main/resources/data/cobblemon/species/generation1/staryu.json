@@ -4,9 +4,9 @@
   "nationalPokedexNumber": 120,
   "primaryType": "water",
   "abilities": [
-    "illuminate",
     "naturalcure",
-    "h:analytic"
+    "analytic",
+    "h:victorystar"
   ],
   "baseStats": {
     "hp": 30,

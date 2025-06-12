@@ -16,7 +16,9 @@
       }
     ]
   },
-  "features": ["region_bias"],
+  "features": [
+    "region_bias"
+  ],
   "forms": [
     {
       "name": "Hisui Bias",
@@ -227,7 +229,9 @@
       },
       "height": 5,
       "weight": 79,
-      "aspects": ["region-bias-hisui"],
+      "aspects": [
+        "region-bias-hisui"
+      ],
       "cannotDynamax": false
     }
   ],

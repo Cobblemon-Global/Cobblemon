@@ -4,7 +4,8 @@
   "nationalPokedexNumber": 874,
   "primaryType": "rock",
   "abilities": [
-    "powerspot"
+    "powerspot",
+    "h:vesselofruin"
   ],
   "baseStats": {
     "hp": 100,

@@ -9,7 +9,7 @@
     "h:unburden"
   ],
   "baseStats": {
-    "hp": 50,
+    "hp": 60,
     "attack": 120,
     "defence": 53,
     "special_attack": 35,

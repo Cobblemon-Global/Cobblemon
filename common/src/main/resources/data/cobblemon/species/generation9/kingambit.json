@@ -5,8 +5,8 @@
   "secondaryType": "steel",
   "abilities": [
     "defiant",
-    "supremeoverlord",
-    "h:pressure"
+    "innerfocus",
+    "h:supremeoverlord"
   ],
   "baseStats": {
     "hp": 100,

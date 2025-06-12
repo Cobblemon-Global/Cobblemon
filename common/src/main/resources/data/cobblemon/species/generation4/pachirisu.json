@@ -4,9 +4,8 @@
   "nationalPokedexNumber": 417,
   "primaryType": "electric",
   "abilities": [
-    "runaway",
-    "pickup",
-    "h:voltabsorb"
+    "voltabsorb",
+    "h:furcoat"
   ],
   "drops": {
     "amount": 1,

@@ -4,7 +4,7 @@
   "primaryType": "bug",
   "secondaryType": "grass",
   "abilities": [
-    "leafguard",
+    "swarm",
     "chlorophyll",
     "h:overcoat"
   ],

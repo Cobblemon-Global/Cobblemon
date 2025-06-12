@@ -3,9 +3,9 @@
   "nationalPokedexNumber": 844,
   "primaryType": "ground",
   "abilities": [
-    "sandspit",
+    "intimidate",
     "shedskin",
-    "h:sandveil"
+    "h:moldbreaker"
   ],
   "baseStats": {
     "hp": 72,

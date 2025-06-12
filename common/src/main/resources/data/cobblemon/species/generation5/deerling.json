@@ -2,8 +2,8 @@
   "implemented": true,
   "name": "Deerling",
   "nationalPokedexNumber": 585,
-  "primaryType": "normal",
-  "secondaryType": "grass",
+  "primaryType": "grass",
+  "secondaryType": "normal",
   "abilities": [
     "chlorophyll",
     "sapsipper",

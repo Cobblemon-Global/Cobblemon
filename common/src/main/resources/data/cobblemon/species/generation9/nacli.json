@@ -4,9 +4,9 @@
   "nationalPokedexNumber": 932,
   "primaryType": "rock",
   "abilities": [
-    "purifyingsalt",
+    "clearbody",
     "sturdy",
-    "h:clearbody"
+    "h:purifyingsalt"
   ],
   "baseStats": {
     "hp": 55,

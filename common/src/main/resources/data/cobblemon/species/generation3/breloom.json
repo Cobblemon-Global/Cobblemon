@@ -5,9 +5,9 @@
   "primaryType": "grass",
   "secondaryType": "fighting",
   "abilities": [
+    "technician",
     "effectspore",
-    "poisonheal",
-    "h:technician"
+    "h:poisonheal"
   ],
   "drops": {
     "amount": 3,

@@ -4,7 +4,8 @@
   "nationalPokedexNumber": 486,
   "primaryType": "normal",
   "abilities": [
-    "slowstart"
+    "slowstart",
+    "h:clearbody"
   ],
   "baseStats": {
     "hp": 110,

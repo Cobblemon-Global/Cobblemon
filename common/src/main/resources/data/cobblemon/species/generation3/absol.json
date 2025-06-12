@@ -4,9 +4,9 @@
   "nationalPokedexNumber": 359,
   "primaryType": "dark",
   "abilities": [
-    "pressure",
     "superluck",
-    "h:justified"
+    "justified",
+    "h:sharpness"
   ],
   "baseStats": {
     "hp": 65,

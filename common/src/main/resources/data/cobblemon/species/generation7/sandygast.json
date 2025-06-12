@@ -5,8 +5,9 @@
   "primaryType": "ghost",
   "secondaryType": "ground",
   "abilities": [
-    "watercompaction",
-    "h:sandveil"
+    "waterabsorb",
+    "sandveil",
+    "h:watercompaction"
   ],
   "baseStats": {
     "hp": 55,

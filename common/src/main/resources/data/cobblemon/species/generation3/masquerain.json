@@ -3,10 +3,11 @@
   "name": "Masquerain",
   "nationalPokedexNumber": 284,
   "primaryType": "bug",
-  "secondaryType": "flying",
+  "secondaryType": "water",
   "abilities": [
     "intimidate",
-    "h:unnerve"
+    "swiftswim",
+    "h:tintedlens"
   ],
   "drops": {
     "amount": 3,

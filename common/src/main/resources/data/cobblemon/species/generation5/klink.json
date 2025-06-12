@@ -4,9 +4,9 @@
   "nationalPokedexNumber": 599,
   "primaryType": "steel",
   "abilities": [
+    "clearbody",
     "plus",
-    "minus",
-    "h:clearbody"
+    "h:levitate"
   ],
   "drops": {
     "amount": 1,

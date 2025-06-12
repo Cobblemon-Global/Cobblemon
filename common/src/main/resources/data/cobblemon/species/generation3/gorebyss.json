@@ -5,7 +5,8 @@
   "primaryType": "water",
   "abilities": [
     "swiftswim",
-    "h:hydration"
+    "hydration",
+    "h:unaware"
   ],
   "drops": {
     "amount": 1,
@@ -20,7 +21,7 @@
     "hp": 55,
     "attack": 84,
     "defence": 105,
-    "special_attack": 114,
+    "special_attack": 115,
     "special_defence": 75,
     "speed": 52
   },
@@ -147,5 +148,6 @@
   "height": 18,
   "weight": 226,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "secondaryType": "psychic"
 }

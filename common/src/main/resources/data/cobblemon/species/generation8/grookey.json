@@ -5,7 +5,7 @@
   "primaryType": "grass",
   "abilities": [
     "overgrow",
-    "h:grassysurge"
+    "h:gorillatactics"
   ],
   "baseStats": {
     "hp": 50,

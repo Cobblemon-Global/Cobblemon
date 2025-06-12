@@ -4,7 +4,8 @@
   "primaryType": "bug",
   "secondaryType": "fighting",
   "abilities": [
-    "beastboost"
+    "beastboost",
+    "h:scrappy"
   ],
   "drops": {
     "amount": 3,

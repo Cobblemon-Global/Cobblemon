@@ -2,12 +2,12 @@
   "implemented": true,
   "name": "Venonat",
   "nationalPokedexNumber": 48,
-  "primaryType": "bug",
-  "secondaryType": "poison",
+  "primaryType": "poison",
+  "secondaryType": "bug",
   "abilities": [
     "compoundeyes",
-    "tintedlens",
-    "h:runaway"
+    "wonderskin",
+    "h:tintedlens"
   ],
   "drops": {
     "amount": 2,

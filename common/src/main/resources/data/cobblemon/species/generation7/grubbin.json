@@ -3,7 +3,8 @@
   "nationalPokedexNumber": 736,
   "primaryType": "bug",
   "abilities": [
-    "swarm"
+    "swarm",
+    "h:speedboost"
   ],
   "baseStats": {
     "hp": 47,

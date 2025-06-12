@@ -2,7 +2,7 @@
   "implemented": true,
   "name": "Boltund",
   "nationalPokedexNumber": 836,
-  "primaryType": "electric",
+  "primaryType": "normal",
   "abilities": [
     "strongjaw",
     "h:competitive"
@@ -126,5 +126,6 @@
   "height": 10,
   "weight": 340,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "secondaryType": "electric"
 }

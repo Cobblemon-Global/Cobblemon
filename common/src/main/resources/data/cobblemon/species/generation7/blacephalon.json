@@ -4,7 +4,8 @@
   "primaryType": "fire",
   "secondaryType": "ghost",
   "abilities": [
-    "beastboost"
+    "beastboost",
+    "h:magicguard"
   ],
   "drops": {
     "amount": 3,

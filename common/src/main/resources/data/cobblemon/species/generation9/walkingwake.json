@@ -5,7 +5,8 @@
   "primaryType": "water",
   "secondaryType": "dragon",
   "abilities": [
-    "protosynthesis"
+    "protosynthesis",
+    "h:innerfocus"
   ],
   "baseStats": {
     "hp": 99,

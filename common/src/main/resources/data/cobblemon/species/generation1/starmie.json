@@ -5,9 +5,9 @@
   "primaryType": "water",
   "secondaryType": "psychic",
   "abilities": [
-    "illuminate",
     "naturalcure",
-    "h:analytic"
+    "analytic",
+    "h:victorystar"
   ],
   "baseStats": {
     "hp": 60,

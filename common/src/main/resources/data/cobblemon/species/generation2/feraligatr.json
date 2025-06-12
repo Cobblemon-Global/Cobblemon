@@ -255,5 +255,6 @@
   "height": 23,
   "weight": 888,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "secondaryType": "dark"
 }

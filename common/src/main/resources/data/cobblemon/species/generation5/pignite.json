@@ -6,7 +6,7 @@
   "secondaryType": "fighting",
   "abilities": [
     "blaze",
-    "h:thickfat"
+    "h:reckless"
   ],
   "drops": {
     "amount": 4,

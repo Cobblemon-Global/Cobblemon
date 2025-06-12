@@ -6,8 +6,8 @@
   "secondaryType": "ground",
   "abilities": [
     "oblivious",
-    "anticipation",
-    "h:hydration"
+    "hydration",
+    "h:queenlymajesty"
   ],
   "drops": {
     "amount": 3,

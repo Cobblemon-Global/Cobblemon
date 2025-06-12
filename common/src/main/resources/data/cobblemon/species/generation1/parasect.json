@@ -3,15 +3,15 @@
   "name": "Parasect",
   "nationalPokedexNumber": 47,
   "primaryType": "bug",
-  "secondaryType": "grass",
+  "secondaryType": "ghost",
   "abilities": [
     "effectspore",
     "dryskin",
-    "h:damp"
+    "h:sharpness"
   ],
   "baseStats": {
-    "hp": 60,
-    "attack": 95,
+    "hp": 70,
+    "attack": 110,
     "defence": 80,
     "special_attack": 60,
     "special_defence": 80,

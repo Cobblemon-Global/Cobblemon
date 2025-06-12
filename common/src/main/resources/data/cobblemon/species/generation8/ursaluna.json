@@ -2,12 +2,12 @@
   "implemented": true,
   "name": "Ursaluna",
   "nationalPokedexNumber": 901,
-  "primaryType": "ground",
-  "secondaryType": "normal",
+  "primaryType": "normal",
+  "secondaryType": "ground",
   "abilities": [
-    "guts",
     "bulletproof",
-    "h:unnerve"
+    "unnerve",
+    "h:guts"
   ],
   "drops": {
     "amount": 8,

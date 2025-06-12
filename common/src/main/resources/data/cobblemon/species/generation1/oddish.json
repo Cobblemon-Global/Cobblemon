@@ -6,7 +6,7 @@
   "secondaryType": "poison",
   "abilities": [
     "chlorophyll",
-    "h:runaway"
+    "h:effectspore"
   ],
   "drops": {
     "amount": 2,

@@ -4,8 +4,8 @@
   "primaryType": "electric",
   "secondaryType": "fairy",
   "abilities": [
-    "electricsurge",
-    "h:telepathy"
+    "telepathy",
+    "h:electricsurge"
   ],
   "baseStats": {
     "hp": 70,

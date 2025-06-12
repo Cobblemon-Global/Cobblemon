@@ -5,8 +5,8 @@
   "primaryType": "dragon",
   "secondaryType": "water",
   "abilities": [
-    "commander",
-    "h:stormdrain"
+    "stormdrain",
+    "h:adaptability"
   ],
   "baseStats": {
     "hp": 68,

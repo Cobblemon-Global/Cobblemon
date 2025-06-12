@@ -5,6 +5,7 @@
   "primaryType": "bug",
   "abilities": [
     "shedskin",
+    "shedskin",
     "h:friendguard"
   ],
   "drops": {

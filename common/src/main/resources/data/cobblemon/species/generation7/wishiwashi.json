@@ -24,7 +24,7 @@
     "defence": 20,
     "special_attack": 25,
     "special_defence": 25,
-    "speed": 40
+    "speed": 100
   },
   "features": [
     "schooling"

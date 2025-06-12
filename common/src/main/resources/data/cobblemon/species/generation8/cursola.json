@@ -4,7 +4,8 @@
   "primaryType": "ghost",
   "abilities": [
     "weakarmor",
-    "h:perishbody"
+    "perishbody",
+    "h:regenerator"
   ],
   "baseStats": {
     "hp": 60,

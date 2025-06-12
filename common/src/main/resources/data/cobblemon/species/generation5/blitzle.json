@@ -3,9 +3,9 @@
   "nationalPokedexNumber": 522,
   "primaryType": "electric",
   "abilities": [
-    "lightningrod",
     "motordrive",
-    "h:sapsipper"
+    "sapsipper",
+    "h:reckless"
   ],
   "drops": {
     "amount": 2,

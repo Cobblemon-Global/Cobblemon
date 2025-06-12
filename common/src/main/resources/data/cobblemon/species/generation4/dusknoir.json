@@ -5,7 +5,8 @@
   "primaryType": "ghost",
   "abilities": [
     "pressure",
-    "h:frisk"
+    "levitate",
+    "h:ironfist"
   ],
   "baseStats": {
     "hp": 45,
@@ -239,5 +240,6 @@
         "percentage": 10.0
       }
     ]
-  }
+  },
+  "secondaryType": "fighting"
 }

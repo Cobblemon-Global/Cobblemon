@@ -5,8 +5,8 @@
   "primaryType": "electric",
   "secondaryType": "steel",
   "abilities": [
-    "magnetpull",
     "sturdy",
+    "magnetpull",
     "h:analytic"
   ],
   "drops": {

@@ -3,7 +3,8 @@
   "nationalPokedexNumber": 796,
   "primaryType": "electric",
   "abilities": [
-    "beastboost"
+    "beastboost",
+    "h:unburden"
   ],
   "baseStats": {
     "hp": 83,

@@ -4,8 +4,8 @@
   "nationalPokedexNumber": 424,
   "primaryType": "normal",
   "abilities": [
-    "technician",
     "pickup",
+    "technician",
     "h:skilllink"
   ],
   "baseStats": {

@@ -4,7 +4,8 @@
   "primaryType": "steel",
   "secondaryType": "flying",
   "abilities": [
-    "beastboost"
+    "beastboost",
+    "h:heavymetal"
   ],
   "drops": {
     "amount": 3,

@@ -5,7 +5,8 @@
   "primaryType": "ground",
   "secondaryType": "dragon",
   "abilities": [
-    "levitate"
+    "levitate",
+    "h:tintedlens"
   ],
   "baseStats": {
     "hp": 50,

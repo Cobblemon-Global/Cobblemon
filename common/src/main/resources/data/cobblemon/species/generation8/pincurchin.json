@@ -5,10 +5,11 @@
   "primaryType": "electric",
   "abilities": [
     "lightningrod",
-    "h:electricsurge"
+    "ironbarbs",
+    "h:transistor"
   ],
   "baseStats": {
-    "hp": 48,
+    "hp": 58,
     "attack": 101,
     "defence": 95,
     "special_attack": 91,

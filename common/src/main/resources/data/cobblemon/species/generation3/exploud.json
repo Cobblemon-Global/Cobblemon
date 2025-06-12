@@ -5,7 +5,8 @@
   "primaryType": "normal",
   "abilities": [
     "soundproof",
-    "h:scrappy"
+    "scrappy",
+    "h:punkrock"
   ],
   "drops": {
     "amount": 1,
@@ -17,7 +18,7 @@
     ]
   },
   "baseStats": {
-    "hp": 104,
+    "hp": 114,
     "attack": 91,
     "defence": 63,
     "special_attack": 91,

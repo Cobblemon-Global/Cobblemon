@@ -2,12 +2,12 @@
   "implemented": true,
   "name": "Spheal",
   "nationalPokedexNumber": 363,
-  "primaryType": "ice",
-  "secondaryType": "water",
+  "primaryType": "water",
+  "secondaryType": "ice",
   "abilities": [
     "thickfat",
     "icebody",
-    "h:oblivious"
+    "h:snowcloak"
   ],
   "baseStats": {
     "hp": 70,

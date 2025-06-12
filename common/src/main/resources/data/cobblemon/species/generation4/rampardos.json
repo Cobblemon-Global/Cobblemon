@@ -5,7 +5,8 @@
   "primaryType": "rock",
   "abilities": [
     "moldbreaker",
-    "h:sheerforce"
+    "sheerforce",
+    "h:rockhead"
   ],
   "drops": {
     "amount": 2,
@@ -19,10 +20,10 @@
   "baseStats": {
     "hp": 97,
     "attack": 165,
-    "defence": 60,
-    "special_attack": 65,
+    "defence": 70,
+    "special_attack": 75,
     "special_defence": 50,
-    "speed": 58
+    "speed": 68
   },
   "catchRate": 45,
   "maleRatio": 0.875,
@@ -40,7 +41,7 @@
       "depth": "normal",
       "light": "0-4"
     },
-    "moving" : {
+    "moving": {
       "walk": {
         "walkSpeed": 0.19
       }

@@ -5,8 +5,8 @@
   "primaryType": "rock",
   "secondaryType": "ground",
   "abilities": [
-    "rockhead",
     "sturdy",
+    "rockhead",
     "h:sandveil"
   ],
   "baseStats": {

@@ -5,8 +5,8 @@
   "primaryType": "rock",
   "secondaryType": "ice",
   "abilities": [
-    "refrigerate",
-    "h:snowwarning"
+    "refridgerate",
+    "h:prankster"
   ],
   "baseStats": {
     "hp": 77,

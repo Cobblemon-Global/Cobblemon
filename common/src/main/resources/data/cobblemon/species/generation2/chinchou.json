@@ -6,7 +6,7 @@
   "secondaryType": "electric",
   "abilities": [
     "voltabsorb",
-    "illuminate",
+    "lightningrod",
     "h:waterabsorb"
   ],
   "drops": {

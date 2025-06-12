@@ -5,7 +5,8 @@
   "primaryType": "electric",
   "abilities": [
     "static",
-    "h:lightningrod"
+    "lightningrod",
+    "h:minus"
   ],
   "drops": {
     "amount": 2,

@@ -5,7 +5,8 @@
   "secondaryType": "steel",
   "abilities": [
     "flashfire",
-    "h:flamebody"
+    "flamebody",
+    "h:heavymetal"
   ],
   "baseStats": {
     "hp": 91,

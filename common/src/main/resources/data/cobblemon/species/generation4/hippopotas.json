@@ -4,8 +4,8 @@
   "nationalPokedexNumber": 449,
   "primaryType": "ground",
   "abilities": [
-    "sandstream",
-    "h:sandforce"
+    "sturdy",
+    "h:dryskin"
   ],
   "drops": {
     "amount": 2,
@@ -38,7 +38,7 @@
     "field"
   ],
   "behaviour": {
-    "moving" : {
+    "moving": {
       "walk": {
         "walkSpeed": 0.12
       }

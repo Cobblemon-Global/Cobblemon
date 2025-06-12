@@ -7,7 +7,7 @@
   "abilities": [
     "keeneye",
     "tangledfeet",
-    "h:bigpecks"
+    "h:soundproof"
   ],
   "drops": {
     "amount": 4,
@@ -29,9 +29,9 @@
     "hp": 76,
     "attack": 65,
     "defence": 45,
-    "special_attack": 92,
+    "special_attack": 102,
     "special_defence": 42,
-    "speed": 91
+    "speed": 96
   },
   "catchRate": 30,
   "maleRatio": 0.5,

@@ -8,12 +8,12 @@
     "h:lightningrod"
   ],
   "baseStats": {
-    "hp": 60,
+    "hp": 70,
     "attack": 50,
     "defence": 40,
     "special_attack": 85,
     "special_defence": 75,
-    "speed": 95
+    "speed": 105
   },
   "catchRate": 200,
   "maleRatio": 0.5,

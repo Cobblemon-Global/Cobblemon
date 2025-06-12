@@ -4,7 +4,8 @@
   "primaryType": "fairy",
   "secondaryType": "psychic",
   "abilities": [
-    "protosynthesis"
+    "protosynthesis",
+    "h:competitive"
   ],
   "baseStats": {
     "hp": 115,

@@ -4,7 +4,8 @@
   "primaryType": "dark",
   "secondaryType": "flying",
   "abilities": [
-    "quarkdrive"
+    "quarkdrive",
+    "h:sheerforce"
   ],
   "baseStats": {
     "hp": 94,

@@ -4,8 +4,8 @@
   "nationalPokedexNumber": 782,
   "primaryType": "dragon",
   "abilities": [
-    "bulletproof",
     "soundproof",
+    "bulletproof",
     "h:overcoat"
   ],
   "baseStats": {

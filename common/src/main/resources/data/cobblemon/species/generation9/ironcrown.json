@@ -4,7 +4,8 @@
   "primaryType": "steel",
   "secondaryType": "psychic",
   "abilities": [
-    "quarkdrive"
+    "quarkdrive",
+    "h:justified"
   ],
   "baseStats": {
     "hp": 90,

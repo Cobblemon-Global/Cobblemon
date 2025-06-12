@@ -4,7 +4,8 @@
   "nationalPokedexNumber": 615,
   "primaryType": "ice",
   "abilities": [
-    "levitate"
+    "levitate",
+    "h:regenerator"
   ],
   "drops": {
     "amount": 2,

@@ -4,8 +4,8 @@
   "primaryType": "water",
   "secondaryType": "bug",
   "abilities": [
-    "waterbubble",
-    "h:waterabsorb"
+    "waterabsorb",
+    "h:waterbubble"
   ],
   "drops": {
     "amount": 2,

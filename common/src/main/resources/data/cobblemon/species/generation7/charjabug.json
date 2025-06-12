@@ -4,7 +4,8 @@
   "primaryType": "bug",
   "secondaryType": "electric",
   "abilities": [
-    "battery"
+    "battery",
+    "h:speedboost"
   ],
   "drops": {
     "amount": 4,

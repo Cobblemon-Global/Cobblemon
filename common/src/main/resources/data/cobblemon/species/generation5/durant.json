@@ -7,7 +7,7 @@
   "abilities": [
     "swarm",
     "hustle",
-    "h:truant"
+    "h:shellarmor"
   ],
   "drops": {
     "amount": 2,
@@ -26,7 +26,7 @@
     "hp": 58,
     "attack": 109,
     "defence": 112,
-    "special_attack": 48,
+    "special_attack": 68,
     "special_defence": 48,
     "speed": 109
   },

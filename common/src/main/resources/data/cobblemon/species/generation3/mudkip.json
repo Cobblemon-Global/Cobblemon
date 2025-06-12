@@ -5,7 +5,7 @@
   "primaryType": "water",
   "abilities": [
     "torrent",
-    "h:damp"
+    "h:battlearmor"
   ],
   "baseStats": {
     "hp": 50,

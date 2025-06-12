@@ -6,7 +6,8 @@
   "secondaryType": "psychic",
   "abilities": [
     "clearbody",
-    "h:lightmetal"
+    "lightmetal",
+    "h:ironfist"
   ],
   "drops": {
     "amount": 3,

@@ -4,7 +4,8 @@
   "nationalPokedexNumber": 803,
   "primaryType": "poison",
   "abilities": [
-    "beastboost"
+    "beastboost",
+    "h:poisonpoint"
   ],
   "drops": {
     "amount": 2,

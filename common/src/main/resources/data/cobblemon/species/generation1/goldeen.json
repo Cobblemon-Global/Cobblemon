@@ -9,7 +9,7 @@
     "h:lightningrod"
   ],
   "baseStats": {
-    "hp": 45,
+    "hp": 50,
     "attack": 67,
     "defence": 60,
     "special_attack": 35,

@@ -4,14 +4,15 @@
   "primaryType": "dark",
   "secondaryType": "dragon",
   "abilities": [
-    "beastboost"
+    "beastboost",
+    "h:strongjaw"
   ],
   "baseStats": {
-    "hp": 223,
+    "hp": 203,
     "attack": 101,
-    "defence": 53,
+    "defence": 63,
     "special_attack": 97,
-    "special_defence": 53,
+    "special_defence": 63,
     "speed": 43
   },
   "catchRate": 45,

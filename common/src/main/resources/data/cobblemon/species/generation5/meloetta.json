@@ -4,7 +4,8 @@
   "primaryType": "normal",
   "secondaryType": "psychic",
   "abilities": [
-    "serenegrace"
+    "serenegrace",
+    "h:filter"
   ],
   "baseStats": {
     "hp": 100,

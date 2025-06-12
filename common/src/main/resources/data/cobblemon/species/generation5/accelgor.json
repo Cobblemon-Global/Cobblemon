@@ -3,9 +3,9 @@
   "nationalPokedexNumber": 617,
   "primaryType": "bug",
   "abilities": [
-    "hydration",
+    "unburden",
     "stickyhold",
-    "h:unburden"
+    "h:tintedlens"
   ],
   "baseStats": {
     "hp": 80,

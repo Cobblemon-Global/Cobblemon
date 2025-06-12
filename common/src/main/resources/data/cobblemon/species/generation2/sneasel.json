@@ -5,9 +5,9 @@
   "primaryType": "dark",
   "secondaryType": "ice",
   "abilities": [
-    "innerfocus",
-    "keeneye",
-    "h:pickpocket"
+    "pressure",
+    "pickpocket",
+    "h:technician"
   ],
   "baseStats": {
     "hp": 55,

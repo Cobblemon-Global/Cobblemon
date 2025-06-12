@@ -5,7 +5,8 @@
   "primaryType": "poison",
   "secondaryType": "dragon",
   "abilities": [
-    "beastboost"
+    "beastboost",
+    "h:adaptability"
   ],
   "drops": {
     "amount": 3,

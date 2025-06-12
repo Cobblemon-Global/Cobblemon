@@ -4,8 +4,8 @@
   "nationalPokedexNumber": 470,
   "primaryType": "grass",
   "abilities": [
-    "leafguard",
-    "h:chlorophyll"
+    "chlorophyll",
+    "h:sharpness"
   ],
   "drops": {
     "amount": 2,

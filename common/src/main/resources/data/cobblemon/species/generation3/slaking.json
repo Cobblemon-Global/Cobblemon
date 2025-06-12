@@ -4,7 +4,8 @@
   "nationalPokedexNumber": 289,
   "primaryType": "normal",
   "abilities": [
-    "truant"
+    "truant",
+    "h:klutz"
   ],
   "baseStats": {
     "hp": 150,

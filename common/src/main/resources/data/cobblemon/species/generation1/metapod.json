@@ -5,7 +5,7 @@
   "primaryType": "bug",
   "abilities": [
     "shedskin",
-    "h:shedskin"
+    "h:overcoat"
   ],
   "baseStats": {
     "hp": 50,

@@ -4,6 +4,7 @@
   "primaryType": "normal",
   "abilities": [
     "cheekpouch",
+    "runaway",
     "h:gluttony"
   ],
   "baseStats": {

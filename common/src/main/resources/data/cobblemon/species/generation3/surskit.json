@@ -5,6 +5,7 @@
   "primaryType": "bug",
   "secondaryType": "water",
   "abilities": [
+    "rattled",
     "swiftswim",
     "h:raindish"
   ],

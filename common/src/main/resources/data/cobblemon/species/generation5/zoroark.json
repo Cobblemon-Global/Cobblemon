@@ -4,7 +4,8 @@
   "nationalPokedexNumber": 571,
   "primaryType": "dark",
   "abilities": [
-    "illusion"
+    "illusion",
+    "h:intimidate"
   ],
   "drops": {
     "amount": 5,

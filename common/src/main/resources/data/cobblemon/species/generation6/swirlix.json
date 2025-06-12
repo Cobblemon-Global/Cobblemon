@@ -4,7 +4,8 @@
   "primaryType": "fairy",
   "abilities": [
     "sweetveil",
-    "h:unburden"
+    "unburden",
+    "h:wellbakedbody"
   ],
   "baseStats": {
     "hp": 62,

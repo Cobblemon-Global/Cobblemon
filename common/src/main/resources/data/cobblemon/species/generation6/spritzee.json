@@ -4,6 +4,7 @@
   "primaryType": "fairy",
   "abilities": [
     "healer",
+    "naturalcure",
     "h:aromaveil"
   ],
   "drops": {

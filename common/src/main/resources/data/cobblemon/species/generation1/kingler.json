@@ -4,7 +4,6 @@
   "nationalPokedexNumber": 99,
   "primaryType": "water",
   "abilities": [
-    "hypercutter",
     "shellarmor",
     "h:sheerforce"
   ],
@@ -266,5 +265,6 @@
   "height": 13,
   "weight": 600,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "secondaryType": "steel"
 }

@@ -6,7 +6,7 @@
   "secondaryType": "poison",
   "abilities": [
     "naturalcure",
-    "poisonpoint",
+    "chlorophyll",
     "h:technician"
   ],
   "baseStats": {

@@ -6,7 +6,8 @@
   "secondaryType": "flying",
   "abilities": [
     "pressure",
-    "h:unnerve"
+    "intimidate",
+    "h:parentalbond"
   ],
   "drops": {
     "amount": 6,

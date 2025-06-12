@@ -7,7 +7,7 @@
   "abilities": [
     "effectspore",
     "dryskin",
-    "h:damp"
+    "h:sharpness"
   ],
   "baseStats": {
     "hp": 35,

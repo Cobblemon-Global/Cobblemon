@@ -5,7 +5,8 @@
   "secondaryType": "poison",
   "abilities": [
     "shielddust",
-    "h:compoundeyes"
+    "compoundeyes",
+    "h:multiscale"
   ],
   "baseStats": {
     "hp": 60,

@@ -6,7 +6,8 @@
   "secondaryType": "steel",
   "abilities": [
     "sturdy",
-    "h:soundproof"
+    "soundproof",
+    "h:eartheater"
   ],
   "drops": {
     "amount": 2,
@@ -19,10 +20,10 @@
   },
   "baseStats": {
     "hp": 60,
-    "attack": 52,
+    "attack": 72,
     "defence": 168,
     "special_attack": 47,
-    "special_defence": 138,
+    "special_defence": 148,
     "speed": 30
   },
   "catchRate": 45,
@@ -35,7 +36,7 @@
     "monster"
   ],
   "behaviour": {
-    "moving" : {
+    "moving": {
       "walk": {
         "walkSpeed": 0.12
       }

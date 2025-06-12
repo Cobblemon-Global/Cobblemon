@@ -1,8 +1,8 @@
 {
   "name": "Malamar",
   "nationalPokedexNumber": 687,
-  "primaryType": "dark",
-  "secondaryType": "psychic",
+  "primaryType": "psychic",
+  "secondaryType": "dark",
   "abilities": [
     "contrary",
     "suctioncups",

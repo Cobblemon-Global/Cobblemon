@@ -121,5 +121,6 @@
         "quantityRange": "0-1"
       }
     ]
-  }
+  },
+  "secondaryType": "normal"
 }

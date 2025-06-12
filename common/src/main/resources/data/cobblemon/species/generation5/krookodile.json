@@ -6,8 +6,8 @@
   "secondaryType": "dark",
   "abilities": [
     "intimidate",
-    "moxie",
-    "h:angerpoint"
+    "angerpoint",
+    "h:moxie"
   ],
   "drops": {
     "amount": 2,

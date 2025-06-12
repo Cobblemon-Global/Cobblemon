@@ -2,8 +2,8 @@
   "implemented": true,
   "name": "Rhydon",
   "nationalPokedexNumber": 112,
-  "primaryType": "ground",
-  "secondaryType": "rock",
+  "primaryType": "rock",
+  "secondaryType": "ground",
   "abilities": [
     "lightningrod",
     "rockhead",

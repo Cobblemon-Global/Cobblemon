@@ -4,8 +4,8 @@
   "primaryType": "psychic",
   "secondaryType": "fairy",
   "abilities": [
-    "psychicsurge",
-    "h:telepathy"
+    "telepathy",
+    "h:psychicsurge"
   ],
   "baseStats": {
     "hp": 70,

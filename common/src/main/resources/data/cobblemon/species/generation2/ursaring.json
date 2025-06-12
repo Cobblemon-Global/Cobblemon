@@ -4,9 +4,9 @@
   "nationalPokedexNumber": 217,
   "primaryType": "normal",
   "abilities": [
-    "guts",
     "quickfeet",
-    "h:unnerve"
+    "unnerve",
+    "h:guts"
   ],
   "drops": {
     "amount": 7,

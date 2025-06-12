@@ -4,7 +4,7 @@
   "primaryType": "fairy",
   "secondaryType": "flying",
   "abilities": [
-    "cutecharm",
+    "healer",
     "h:contrary"
   ],
   "baseStats": {

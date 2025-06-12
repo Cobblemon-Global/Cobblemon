@@ -4,8 +4,8 @@
   "nationalPokedexNumber": 136,
   "primaryType": "fire",
   "abilities": [
-    "flashfire",
-    "h:guts"
+    "guts",
+    "h:rockhead"
   ],
   "drops": {
     "amount": 2,
@@ -24,9 +24,9 @@
     "hp": 65,
     "attack": 130,
     "defence": 60,
-    "special_attack": 95,
+    "special_attack": 65,
     "special_defence": 110,
-    "speed": 65
+    "speed": 95
   },
   "catchRate": 45,
   "maleRatio": 0.875,
