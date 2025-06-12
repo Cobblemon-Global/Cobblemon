@@ -16,8 +16,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "sandstream",
-    "h:unnerve"
+    "intimidate",
+    "h:battlearmor"
   ],
   "eggGroups": [
     "monster"
@@ -280,8 +280,7 @@
         "mega"
       ],
       "abilities": [
-        "sandstream",
-        "h:sandstream"
+        "intimidate"
       ],
       "baseStats": {
         "hp": 100,

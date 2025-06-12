@@ -611,6 +611,9 @@
       "aspects": [
         "gmax"
       ],
+      "abilities": [
+        "rollinindough"
+      ],
       "dynamaxBlocked": true,
       "evolutions": [],
       "battleOnly": true

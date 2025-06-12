@@ -240,8 +240,7 @@
         "mega"
       ],
       "abilities": [
-        "magicbounce",
-        "h:magicbounce"
+        "magicbounce"
       ],
       "baseStats": {
         "hp": 65,

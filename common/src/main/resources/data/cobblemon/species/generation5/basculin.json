@@ -18,8 +18,8 @@
   ],
   "abilities": [
     "reckless",
-    "adaptability",
-    "h:moldbreaker"
+    "moldbreaker",
+    "h:adaptability"
   ],
   "eggGroups": [
     "water_2"
@@ -189,8 +189,8 @@
       ],
       "abilities": [
         "rockhead",
-        "adaptability",
-        "h:moldbreaker"
+        "moldbreaker",
+        "h:adaptability"
       ],
       "evolutions": [],
       "battleOnly": false
@@ -213,8 +213,8 @@
       ],
       "abilities": [
         "rattled",
-        "adaptability",
-        "h:moldbreaker"
+        "moldbreaker",
+        "h:adaptability"
       ],
       "moves": [
         "1:tailwhip",

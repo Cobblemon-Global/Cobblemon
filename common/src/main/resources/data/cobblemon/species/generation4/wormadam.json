@@ -16,14 +16,15 @@
     "plant-cloak"
   ],
   "abilities": [
-    "anticipation",
-    "h:overcoat"
+    "shedskin",
+    "overcoat",
+    "h:dryskin"
   ],
   "eggGroups": [
     "bug"
   ],
   "baseStats": {
-    "hp": 60,
+    "hp": 70,
     "attack": 59,
     "defence": 85,
     "special_attack": 79,
@@ -162,8 +163,13 @@
       "aspects": [
         "sandy-cloak"
       ],
+      "abilities": [
+        "shedskin",
+        "overcoat",
+        "h:roughskin"
+      ],
       "baseStats": {
-        "hp": 60,
+        "hp": 70,
         "attack": 79,
         "defence": 105,
         "special_attack": 59,
@@ -286,8 +292,13 @@
       "aspects": [
         "trash-cloak"
       ],
+      "abilities": [
+        "shedskin",
+        "overcoat",
+        "h:wonderskin"
+      ],
       "baseStats": {
-        "hp": 60,
+        "hp": 70,
         "attack": 69,
         "defence": 95,
         "special_attack": 69,

@@ -17,7 +17,7 @@
   "aspects": [],
   "abilities": [
     "oblivious",
-    "owntempo",
+    "shellarmor",
     "h:regenerator"
   ],
   "eggGroups": [
@@ -261,8 +261,7 @@
         "mega"
       ],
       "abilities": [
-        "shellarmor",
-        "h:shellarmor"
+        "shellarmor"
       ],
       "baseStats": {
         "hp": 95,
@@ -309,7 +308,6 @@
       ],
       "abilities": [
         "quickdraw",
-        "owntempo",
         "h:regenerator"
       ],
       "baseStats": {

@@ -248,8 +248,7 @@
         "mega"
       ],
       "abilities": [
-        "sandforce",
-        "h:sandforce"
+        "dauntlessshield"
       ],
       "baseStats": {
         "hp": 75,

@@ -14,8 +14,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "cutecharm",
-    "klutz",
+    "runaway",
+    "defiant",
     "h:limber"
   ],
   "eggGroups": [
@@ -24,11 +24,11 @@
   ],
   "baseStats": {
     "hp": 65,
-    "attack": 76,
+    "attack": 86,
     "defence": 84,
     "special_attack": 54,
     "special_defence": 96,
-    "speed": 105
+    "speed": 115
   },
   "evYield": {
     "hp": 0,
@@ -254,14 +254,13 @@
         "mega"
       ],
       "abilities": [
-        "scrappy",
-        "h:scrappy"
+        "scrappy"
       ],
       "baseStats": {
         "hp": 65,
         "attack": 136,
         "defence": 94,
-        "special_attack": 54,
+        "special_attack": 74,
         "special_defence": 96,
         "speed": 135
       },

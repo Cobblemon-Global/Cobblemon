@@ -199,6 +199,9 @@
       "aspects": [
         "origin-forme"
       ],
+      "abilities": [
+        "grimneigh"
+      ],
       "baseStats": {
         "hp": 90,
         "attack": 100,

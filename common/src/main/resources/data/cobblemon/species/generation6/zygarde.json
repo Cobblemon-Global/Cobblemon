@@ -19,7 +19,7 @@
   ],
   "abilities": [
     "aurabreak",
-    "h:aurabreak"
+    "h:earthlyaura"
   ],
   "eggGroups": [
     "undiscovered"
@@ -168,6 +168,10 @@
       ],
       "aspects": [
         "10-percent"
+      ],
+      "abilities": [
+        "aurabreak",
+        "h:earthlyaura"
       ],
       "baseStats": {
         "hp": 54,

@@ -16,9 +16,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "innerfocus",
-    "keeneye",
-    "h:pickpocket"
+    "pressure",
+    "pickpocket",
+    "h:technician"
   ],
   "eggGroups": [
     "field"
@@ -242,6 +242,11 @@
       ],
       "aspects": [
         "hisuian"
+      ],
+      "abilities": [
+        "innerfocus",
+        "keeneye",
+        "h:unburden"
       ],
       "drops": {
         "amount": 3,

@@ -17,7 +17,8 @@
   "aspects": [],
   "abilities": [
     "chlorophyll",
-    "h:harvest"
+    "harvest",
+    "h:evergreen"
   ],
   "eggGroups": [
     "grass"
@@ -235,13 +236,14 @@
       ],
       "abilities": [
         "frisk",
-        "h:harvest"
+        "harvest",
+        "h:evergreen"
       ],
       "baseStats": {
         "hp": 95,
-        "attack": 105,
+        "attack": 125,
         "defence": 85,
-        "special_attack": 125,
+        "special_attack": 105,
         "special_defence": 75,
         "speed": 45
       },

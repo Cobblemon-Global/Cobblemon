@@ -217,8 +217,8 @@
       ],
       "abilities": [
         "cursedbody",
-        "lightningrod",
-        "h:rockhead"
+        "rockhead",
+        "h:lightningrod"
       ],
       "baseScale": 0.8,
       "hitbox": {

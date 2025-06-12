@@ -14,8 +14,8 @@
   "aspects": [],
   "abilities": [
     "healer",
-    "regenerator",
-    "h:klutz"
+    "naturalcare",
+    "h:regenerator"
   ],
   "eggGroups": [
     "fairy"
@@ -237,8 +237,7 @@
         "mega"
       ],
       "abilities": [
-        "healer",
-        "h:healer"
+        "naturalcare"
       ],
       "baseStats": {
         "hp": 103,

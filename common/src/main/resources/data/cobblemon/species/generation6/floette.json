@@ -17,7 +17,8 @@
   ],
   "abilities": [
     "flowerveil",
-    "h:symbiosis"
+    "symbiosis",
+    "h:flowergift"
   ],
   "eggGroups": [
     "fairy"
@@ -310,6 +311,11 @@
       ],
       "eggGroups": [
         "undiscovered"
+      ],
+      "abilities": [
+        "flowerveil",
+        "serenegrace",
+        "h:flowergift"
       ],
       "baseStats": {
         "hp": 74,

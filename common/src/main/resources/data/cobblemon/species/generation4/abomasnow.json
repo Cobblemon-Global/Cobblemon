@@ -209,8 +209,7 @@
         "mega"
       ],
       "abilities": [
-        "snowwarning",
-        "h:snowwarning"
+        "evergreen"
       ],
       "baseStats": {
         "hp": 90,

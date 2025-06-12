@@ -17,7 +17,7 @@
   ],
   "abilities": [
     "dancer",
-    "h:dancer"
+    "h:soulheart"
   ],
   "eggGroups": [
     "flying"
@@ -168,6 +168,10 @@
       "aspects": [
         "pom_pom-style"
       ],
+      "abilities": [
+        "dancer",
+        "h:electromorphosis"
+      ],
       "evolutions": [],
       "battleOnly": false
     },
@@ -187,6 +191,10 @@
       "aspects": [
         "pa'u-style"
       ],
+      "abilities": [
+        "dancer",
+        "h:galewings"
+      ],
       "evolutions": [],
       "battleOnly": false
     },
@@ -205,6 +213,10 @@
       ],
       "aspects": [
         "sensu-style"
+      ],
+      "abilities": [
+        "dancer",
+        "h:queenlymajesty"
       ],
       "evolutions": [],
       "battleOnly": false

@@ -16,7 +16,7 @@
   "aspects": [],
   "abilities": [
     "flashfire",
-    "h:drought"
+    "h:magicguard"
   ],
   "eggGroups": [
     "field"
@@ -210,7 +210,7 @@
       ],
       "abilities": [
         "snowcloak",
-        "h:snowwarning"
+        "h:icebody"
       ],
       "drops": {
         "amount": 5,

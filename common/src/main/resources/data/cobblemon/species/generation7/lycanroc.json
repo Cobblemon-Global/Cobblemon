@@ -17,7 +17,7 @@
   "abilities": [
     "keeneye",
     "sandrush",
-    "h:steadfast"
+    "h:rockhead"
   ],
   "eggGroups": [
     "field"
@@ -362,7 +362,8 @@
         "dusk-form"
       ],
       "abilities": [
-        "toughclaws",
+        "keeneye",
+        "vitalspirit",
         "h:toughclaws"
       ],
       "baseStats": {

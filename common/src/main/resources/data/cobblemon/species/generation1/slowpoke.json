@@ -263,7 +263,6 @@
       ],
       "abilities": [
         "gluttony",
-        "owntempo",
         "h:regenerator"
       ],
       "behaviour": {

@@ -248,8 +248,7 @@
         "mega_x"
       ],
       "abilities": [
-        "toughclaws",
-        "h:toughclaws"
+        "toughclaws"
       ],
       "baseStats": {
         "hp": 78,
@@ -282,8 +281,7 @@
         "mega_y"
       ],
       "abilities": [
-        "drought",
-        "h:drought"
+        "drought"
       ],
       "baseStats": {
         "hp": 78,

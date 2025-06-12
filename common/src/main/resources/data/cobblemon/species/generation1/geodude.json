@@ -226,8 +226,8 @@
       ],
       "abilities": [
         "magnetpull",
-        "sturdy",
-        "h:galvanize"
+        "galvanize",
+        "h:sturdy"
       ],
       "drops": {
         "amount": 4,

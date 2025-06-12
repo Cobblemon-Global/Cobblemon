@@ -15,7 +15,6 @@
   ],
   "aspects": [],
   "abilities": [
-    "sandveil",
     "arenatrap",
     "h:sandforce"
   ],
@@ -214,7 +213,6 @@
         "alolan"
       ],
       "abilities": [
-        "sandveil",
         "tanglinghair",
         "h:sandforce"
       ],

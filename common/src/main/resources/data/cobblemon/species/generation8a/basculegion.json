@@ -18,8 +18,8 @@
   ],
   "abilities": [
     "swiftswim",
-    "adaptability",
-    "h:moldbreaker"
+    "moldbreaker",
+    "h:adaptability"
   ],
   "eggGroups": [
     "water_2"
@@ -186,6 +186,11 @@
       ],
       "aspects": [
         "female"
+      ],
+      "abilities": [
+        "swiftswim",
+        "moldbreaker",
+        "h:adaptability"
       ],
       "baseStats": {
         "hp": 120,

@@ -17,8 +17,7 @@
     "shield-forme"
   ],
   "abilities": [
-    "stancechange",
-    "h:stancechange"
+    "stancechange"
   ],
   "eggGroups": [
     "mineral"
@@ -26,9 +25,9 @@
   "baseStats": {
     "hp": 60,
     "attack": 50,
-    "defence": 140,
+    "defence": 150,
     "special_attack": 50,
-    "special_defence": 140,
+    "special_defence": 150,
     "speed": 60
   },
   "evYield": {
@@ -187,9 +186,9 @@
       ],
       "baseStats": {
         "hp": 60,
-        "attack": 140,
+        "attack": 150,
         "defence": 50,
-        "special_attack": 140,
+        "special_attack": 150,
         "special_defence": 50,
         "speed": 60
       },

@@ -16,8 +16,7 @@
   "aspects": [],
   "abilities": [
     "levitate",
-    "neutralizinggas",
-    "h:stench"
+    "h:neutralizinggas"
   ],
   "eggGroups": [
     "amorphous"
@@ -188,8 +187,7 @@
       ],
       "abilities": [
         "levitate",
-        "neutralizinggas",
-        "h:mistysurge"
+        "h:neutralizinggas"
       ],
       "drops": {
         "amount": 3,

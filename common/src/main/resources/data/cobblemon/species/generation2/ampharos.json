@@ -15,7 +15,8 @@
   "aspects": [],
   "abilities": [
     "static",
-    "h:plus"
+    "plus",
+    "h:motordrive"
   ],
   "eggGroups": [
     "monster",
@@ -229,8 +230,7 @@
         "mega"
       ],
       "abilities": [
-        "moldbreaker",
-        "h:moldbreaker"
+        "teravolt"
       ],
       "baseStats": {
         "hp": 90,

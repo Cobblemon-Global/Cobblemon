@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "static",
-    "h:lightningrod"
+    "lightningrod",
+    "h:minus"
   ],
   "eggGroups": [
     "field",
@@ -230,7 +231,8 @@
       ],
       "abilities": [
         "surgesurfer",
-        "h:surgesurfer"
+        "lightningrod",
+        "h:minus"
       ],
       "baseStats": {
         "hp": 60,

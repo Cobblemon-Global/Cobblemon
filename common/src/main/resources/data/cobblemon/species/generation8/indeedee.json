@@ -18,7 +18,7 @@
   "abilities": [
     "innerfocus",
     "synchronize",
-    "h:psychicsurge"
+    "h:aromaveil"
   ],
   "eggGroups": [
     "fairy"
@@ -171,7 +171,7 @@
       "abilities": [
         "owntempo",
         "synchronize",
-        "h:psychicsurge"
+        "h:aromaveil"
       ],
       "baseStats": {
         "hp": 70,

@@ -16,7 +16,7 @@
   "aspects": [],
   "abilities": [
     "flashfire",
-    "h:drought"
+    "h:magicguard"
   ],
   "eggGroups": [
     "field"
@@ -222,7 +222,7 @@
       ],
       "abilities": [
         "snowcloak",
-        "h:snowwarning"
+        "h:icebody"
       ],
       "baseStats": {
         "hp": 73,

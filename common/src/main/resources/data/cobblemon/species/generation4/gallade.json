@@ -15,9 +15,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "steadfast",
-    "sharpness",
-    "h:justified"
+    "innerfocus",
+    "justified",
+    "h:sharpness"
   ],
   "eggGroups": [
     "human_like",
@@ -320,8 +320,7 @@
         "mega"
       ],
       "abilities": [
-        "innerfocus",
-        "h:innerfocus"
+        "sharpness"
       ],
       "eggGroups": [
         "amorphous",

@@ -14,8 +14,8 @@
   "aspects": [],
   "abilities": [
     "insomnia",
-    "frisk",
-    "h:cursedbody"
+    "cursedbody",
+    "h:prankster"
   ],
   "eggGroups": [
     "amorphous"
@@ -214,8 +214,7 @@
         "mega"
       ],
       "abilities": [
-        "prankster",
-        "h:prankster"
+        "toughclaws"
       ],
       "baseStats": {
         "hp": 64,

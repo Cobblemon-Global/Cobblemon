@@ -15,7 +15,7 @@
   "aspects": [],
   "abilities": [
     "levitate",
-    "h:levitate"
+    "h:adaptability"
   ],
   "eggGroups": [
     "amorphous"
@@ -273,6 +273,10 @@
       "aspects": [
         "wash-appliance"
       ],
+      "abilities": [
+        "levitate",
+        "h:lightningrod"
+      ],
       "baseStats": {
         "hp": 50,
         "attack": 65,
@@ -391,6 +395,10 @@
       ],
       "aspects": [
         "frost-appliance"
+      ],
+      "abilities": [
+        "levitate",
+        "h:lightningrod"
       ],
       "baseStats": {
         "hp": 50,
@@ -511,6 +519,10 @@
       "aspects": [
         "fan-appliance"
       ],
+      "abilities": [
+        "levitate",
+        "h:lightningrod"
+      ],
       "baseStats": {
         "hp": 50,
         "attack": 65,
@@ -629,6 +641,10 @@
       ],
       "aspects": [
         "mow-appliance"
+      ],
+      "abilities": [
+        "levitate",
+        "h:lightningrod"
       ],
       "baseStats": {
         "hp": 50,

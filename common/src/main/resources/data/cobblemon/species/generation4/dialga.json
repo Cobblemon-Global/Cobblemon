@@ -194,6 +194,9 @@
       "aspects": [
         "origin-forme"
       ],
+      "abilities": [
+        "multiscale"
+      ],
       "baseStats": {
         "hp": 100,
         "attack": 100,
