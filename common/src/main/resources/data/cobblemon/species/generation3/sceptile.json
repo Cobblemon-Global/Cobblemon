@@ -24,13 +24,13 @@
       "primaryType": "grass",
       "secondaryType": "dragon",
       "abilities": [
-        "lightningrod"
+        "evergreen"
       ],
       "baseStats": {
         "hp": 70,
-        "attack": 110,
+        "attack": 145,
         "defence": 75,
-        "special_attack": 145,
+        "special_attack": 110,
         "special_defence": 85,
         "speed": 145
       },

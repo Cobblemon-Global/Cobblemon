@@ -5,7 +5,7 @@
   "primaryType": "ghost",
   "secondaryType": "grass",
   "abilities": [
-    "pickup",
+    "naturalcure",
     "frisk",
     "h:insomnia"
   ],
@@ -40,7 +40,7 @@
       "primaryType": "ghost",
       "secondaryType": "grass",
       "abilities": [
-        "pickup",
+        "naturalcure",
         "frisk",
         "h:insomnia"
       ],
@@ -96,7 +96,7 @@
       "primaryType": "ghost",
       "secondaryType": "grass",
       "abilities": [
-        "pickup",
+        "naturalcure",
         "frisk",
         "h:insomnia"
       ],
@@ -152,7 +152,7 @@
       "primaryType": "ghost",
       "secondaryType": "grass",
       "abilities": [
-        "pickup",
+        "naturalcure",
         "frisk",
         "h:insomnia"
       ],

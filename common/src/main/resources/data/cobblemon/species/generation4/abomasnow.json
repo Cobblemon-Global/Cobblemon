@@ -42,7 +42,7 @@
       "primaryType": "grass",
       "secondaryType": "ice",
       "abilities": [
-        "snowwarning"
+        "evergreen"
       ],
       "baseStats": {
         "hp": 90,

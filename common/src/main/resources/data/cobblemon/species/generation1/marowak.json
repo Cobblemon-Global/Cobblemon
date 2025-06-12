@@ -29,8 +29,8 @@
       "secondaryType": "ghost",
       "abilities": [
         "cursedbody",
-        "lightningrod",
-        "h:rockhead"
+        "rockhead",
+        "h:lightningrod"
       ],
       "baseStats": {
         "hp": 60,

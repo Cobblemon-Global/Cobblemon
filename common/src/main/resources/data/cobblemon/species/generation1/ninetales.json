@@ -33,7 +33,7 @@
       "secondaryType": "fairy",
       "abilities": [
         "snowcloak",
-        "h:snowwarning"
+        "h:icebody"
       ],
       "baseStats": {
         "hp": 73,

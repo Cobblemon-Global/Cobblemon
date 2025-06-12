@@ -4,7 +4,8 @@
   "primaryType": "dragon",
   "secondaryType": "ground",
   "abilities": [
-    "aurabreak"
+    "aurabreak",
+    "h:earthlyaura"
   ],
   "baseStats": {
     "hp": 108,
@@ -154,7 +155,8 @@
       "primaryType": "dragon",
       "secondaryType": "ground",
       "abilities": [
-        "aurabreak"
+        "aurabreak",
+        "h:earthlyaura"
       ],
       "baseStats": {
         "hp": 54,

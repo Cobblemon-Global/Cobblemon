@@ -23,6 +23,7 @@
     {
       "name": "Mega",
       "primaryType": "dark",
+      "secondaryType": "fairy",
       "abilities": [
         "magicbounce"
       ],

@@ -24,8 +24,7 @@
       "primaryType": "water",
       "secondaryType": "dragon",
       "abilities": [
-        "pressure",
-        "h:telepathy"
+        "grimneigh"
       ],
       "baseStats": {
         "hp": 90,

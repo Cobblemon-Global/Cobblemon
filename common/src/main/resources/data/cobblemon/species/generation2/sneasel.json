@@ -31,7 +31,7 @@
       "abilities": [
         "innerfocus",
         "keeneye",
-        "h:pickpocket"
+        "h:unburden"
       ],
       "baseStats": {
         "hp": 55,

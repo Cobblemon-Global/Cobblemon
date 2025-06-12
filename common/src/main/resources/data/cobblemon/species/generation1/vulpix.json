@@ -32,7 +32,7 @@
       "primaryType": "ice",
       "abilities": [
         "snowcloak",
-        "h:snowwarning"
+        "h:icebody"
       ],
       "baseStats": {
         "hp": 38,

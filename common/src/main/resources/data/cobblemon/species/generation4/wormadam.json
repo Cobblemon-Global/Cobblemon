@@ -4,8 +4,9 @@
   "primaryType": "bug",
   "secondaryType": "grass",
   "abilities": [
-    "anticipation",
-    "h:overcoat"
+    "shedskin",
+    "overcoat",
+    "h:dryskin"
   ],
   "drops": {
     "amount": 3,
@@ -21,7 +22,7 @@
     ]
   },
   "baseStats": {
-    "hp": 60,
+    "hp": 70,
     "attack": 59,
     "defence": 85,
     "special_attack": 79,
@@ -136,11 +137,12 @@
       "primaryType": "bug",
       "secondaryType": "ground",
       "abilities": [
-        "anticipation",
-        "h:overcoat"
+        "shedskin",
+        "overcoat",
+        "h:roughskin"
       ],
       "baseStats": {
-        "hp": 60,
+        "hp": 70,
         "attack": 79,
         "defence": 105,
         "special_attack": 59,
@@ -255,11 +257,12 @@
       "primaryType": "bug",
       "secondaryType": "steel",
       "abilities": [
-        "anticipation",
-        "h:overcoat"
+        "shedskin",
+        "overcoat",
+        "h:wonderskin"
       ],
       "baseStats": {
-        "hp": 60,
+        "hp": 70,
         "attack": 69,
         "defence": 95,
         "special_attack": 69,

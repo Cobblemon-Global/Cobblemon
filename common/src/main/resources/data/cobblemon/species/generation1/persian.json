@@ -35,9 +35,9 @@
       "name": "Alola",
       "primaryType": "dark",
       "abilities": [
-        "furcoat",
+        "rattled",
         "technician",
-        "h:rattled"
+        "h:furcoat"
       ],
       "baseStats": {
         "hp": 65,

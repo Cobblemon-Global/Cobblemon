@@ -5,8 +5,8 @@
   "primaryType": "water",
   "abilities": [
     "reckless",
-    "adaptability",
-    "h:moldbreaker"
+    "moldbreaker",
+    "h:adaptability"
   ],
   "drops": {
     "amount": 3,
@@ -188,8 +188,8 @@
       "primaryType": "water",
       "abilities": [
         "rockhead",
-        "adaptability",
-        "h:moldbreaker"
+        "moldbreaker",
+        "h:adaptability"
       ],
       "baseStats": {
         "hp": 70,
@@ -232,8 +232,8 @@
       "primaryType": "water",
       "abilities": [
         "rattled",
-        "adaptability",
-        "h:moldbreaker"
+        "moldbreaker",
+        "h:adaptability"
       ],
       "baseStats": {
         "hp": 70,

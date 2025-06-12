@@ -6,7 +6,7 @@
   "abilities": [
     "innerfocus",
     "synchronize",
-    "h:psychicsurge"
+    "h:aromaveil"
   ],
   "baseStats": {
     "hp": 60,
@@ -27,7 +27,7 @@
       "abilities": [
         "owntempo",
         "synchronize",
-        "h:psychicsurge"
+        "h:aromaveil"
       ],
       "baseStats": {
         "hp": 70,

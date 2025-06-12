@@ -40,7 +40,6 @@
       "primaryType": "ground",
       "secondaryType": "steel",
       "abilities": [
-        "sandveil",
         "tanglinghair",
         "h:sandforce"
       ],

@@ -28,8 +28,7 @@
       "secondaryType": "fairy",
       "abilities": [
         "levitate",
-        "neutralizinggas",
-        "h:mistysurge"
+        "h:neutralizinggas"
       ],
       "baseStats": {
         "hp": 65,

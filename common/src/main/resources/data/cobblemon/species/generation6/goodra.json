@@ -30,7 +30,7 @@
       "abilities": [
         "sapsipper",
         "shellarmor",
-        "h:gooey"
+        "h:heavyarmor"
       ],
       "baseStats": {
         "hp": 80,

@@ -5,7 +5,7 @@
   "abilities": [
     "keeneye",
     "sandrush",
-    "h:steadfast"
+    "h:rockhead"
   ],
   "baseStats": {
     "hp": 75,
@@ -312,7 +312,9 @@
       "name": "Dusk",
       "primaryType": "rock",
       "abilities": [
-        "toughclaws"
+        "keeneye",
+        "vitalspirit",
+        "h:toughclaws"
       ],
       "baseStats": {
         "hp": 75,

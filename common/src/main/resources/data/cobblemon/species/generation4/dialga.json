@@ -24,8 +24,7 @@
       "primaryType": "steel",
       "secondaryType": "dragon",
       "abilities": [
-        "pressure",
-        "h:telepathy"
+        "multiscale"
       ],
       "baseStats": {
         "hp": 100,

@@ -6,8 +6,8 @@
   "secondaryType": "ghost",
   "abilities": [
     "swiftswim",
-    "adaptability",
-    "h:moldbreaker"
+    "moldbreaker",
+    "h:adaptability"
   ],
   "baseStats": {
     "hp": 120,
@@ -131,8 +131,8 @@
       "secondaryType": "ghost",
       "abilities": [
         "swiftswim",
-        "adaptability",
-        "h:moldbreaker"
+        "moldbreaker",
+        "h:adaptability"
       ],
       "baseStats": {
         "hp": 120,

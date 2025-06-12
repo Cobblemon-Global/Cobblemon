@@ -42,7 +42,6 @@
       "primaryType": "psychic",
       "abilities": [
         "gluttony",
-        "owntempo",
         "h:regenerator"
       ],
       "baseStats": {

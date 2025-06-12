@@ -30,8 +30,8 @@
       "secondaryType": "electric",
       "abilities": [
         "magnetpull",
-        "sturdy",
-        "h:galvanize"
+        "galvanize",
+        "h:sturdy"
       ],
       "baseStats": {
         "hp": 40,

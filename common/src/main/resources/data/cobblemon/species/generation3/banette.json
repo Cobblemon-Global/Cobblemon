@@ -23,7 +23,7 @@
       "name": "Mega",
       "primaryType": "ghost",
       "abilities": [
-        "prankster"
+        "toughclaws"
       ],
       "baseStats": {
         "hp": 64,

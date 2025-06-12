@@ -24,7 +24,8 @@
       "primaryType": "electric",
       "secondaryType": "fire",
       "abilities": [
-        "levitate"
+        "levitate",
+        "h:lightningrod"
       ],
       "baseStats": {
         "hp": 50,
@@ -71,7 +72,8 @@
       "primaryType": "electric",
       "secondaryType": "water",
       "abilities": [
-        "levitate"
+        "levitate",
+        "h:lightningrod"
       ],
       "baseStats": {
         "hp": 50,
@@ -118,7 +120,8 @@
       "primaryType": "electric",
       "secondaryType": "ice",
       "abilities": [
-        "levitate"
+        "levitate",
+        "h:lightningrod"
       ],
       "baseStats": {
         "hp": 50,
@@ -165,7 +168,8 @@
       "primaryType": "electric",
       "secondaryType": "flying",
       "abilities": [
-        "levitate"
+        "levitate",
+        "h:lightningrod"
       ],
       "baseStats": {
         "hp": 50,
@@ -212,7 +216,8 @@
       "primaryType": "electric",
       "secondaryType": "grass",
       "abilities": [
-        "levitate"
+        "levitate",
+        "h:lightningrod"
       ],
       "baseStats": {
         "hp": 50,

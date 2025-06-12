@@ -29,7 +29,8 @@
       "primaryType": "ghost",
       "abilities": [
         "weakarmor",
-        "h:cursedbody"
+        "cursedbody",
+        "h:regenerator"
       ],
       "baseStats": {
         "hp": 60,

@@ -26,7 +26,7 @@
       "primaryType": "psychic",
       "secondaryType": "fighting",
       "abilities": [
-        "innerfocus"
+        "sharpness"
       ],
       "baseStats": {
         "hp": 68,

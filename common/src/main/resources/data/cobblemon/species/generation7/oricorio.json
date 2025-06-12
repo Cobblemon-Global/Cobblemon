@@ -4,7 +4,8 @@
   "primaryType": "fire",
   "secondaryType": "flying",
   "abilities": [
-    "dancer"
+    "dancer",
+    "h:soulheart"
   ],
   "drops": {
     "amount": 5,
@@ -151,7 +152,8 @@
       "primaryType": "electric",
       "secondaryType": "flying",
       "abilities": [
-        "dancer"
+        "dancer",
+        "h:electromorphosis"
       ],
       "baseStats": {
         "hp": 75,
@@ -194,7 +196,8 @@
       "primaryType": "psychic",
       "secondaryType": "flying",
       "abilities": [
-        "dancer"
+        "dancer",
+        "h:galewings"
       ],
       "baseStats": {
         "hp": 75,
@@ -237,7 +240,8 @@
       "primaryType": "ghost",
       "secondaryType": "flying",
       "abilities": [
-        "dancer"
+        "dancer",
+        "h:queenlymajesty"
       ],
       "baseStats": {
         "hp": 75,

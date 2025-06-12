@@ -115,8 +115,7 @@
       "primaryType": "fire",
       "secondaryType": "flying",
       "abilities": [
-        "blaze",
-        "h:solarpower"
+        "maxblaze"
       ],
       "baseStats": {
         "hp": 78,

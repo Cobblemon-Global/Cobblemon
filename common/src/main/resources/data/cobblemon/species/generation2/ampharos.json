@@ -38,7 +38,7 @@
       "primaryType": "electric",
       "secondaryType": "dragon",
       "abilities": [
-        "moldbreaker"
+        "teravolt"
       ],
       "baseStats": {
         "hp": 90,

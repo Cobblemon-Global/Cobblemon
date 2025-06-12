@@ -258,6 +258,7 @@
     {
       "name": "Galar",
       "primaryType": "steel",
+      "secondaryType": "normal",
       "abilities": [
         "pickup",
         "toughclaws",
@@ -437,9 +438,7 @@
       "name": "Gmax",
       "primaryType": "normal",
       "abilities": [
-        "pickup",
-        "technician",
-        "h:unnerve"
+        "rollinindough"
       ],
       "baseStats": {
         "hp": 40,

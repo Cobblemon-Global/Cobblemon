@@ -37,7 +37,7 @@
       "primaryType": "normal",
       "secondaryType": "fairy",
       "abilities": [
-        "healer"
+        "naturalcure"
       ],
       "baseStats": {
         "hp": 103,

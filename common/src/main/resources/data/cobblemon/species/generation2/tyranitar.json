@@ -32,7 +32,7 @@
       "primaryType": "rock",
       "secondaryType": "dark",
       "abilities": [
-        "sandstream"
+        "intimidate"
       ],
       "baseStats": {
         "hp": 100,

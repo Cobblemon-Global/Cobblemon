@@ -40,7 +40,8 @@
       "primaryType": "normal",
       "secondaryType": "ghost",
       "abilities": [
-        "illusion"
+        "illusion",
+        "h:intimidate"
       ],
       "baseStats": {
         "hp": 55,

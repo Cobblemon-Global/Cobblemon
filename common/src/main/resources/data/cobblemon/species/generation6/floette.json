@@ -37,7 +37,9 @@
       "name": "Eternal",
       "primaryType": "fairy",
       "abilities": [
-        "flowerveil"
+        "flowerveil",
+        "serenegrace",
+        "flowergift"
       ],
       "baseStats": {
         "hp": 74,

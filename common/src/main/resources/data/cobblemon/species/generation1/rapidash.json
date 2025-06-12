@@ -30,10 +30,10 @@
       "abilities": [
         "runaway",
         "pastelveil",
-        "h:anticipation"
+        "h:sapsipper"
       ],
       "baseStats": {
-        "hp": 65,
+        "hp": 75,
         "attack": 100,
         "defence": 70,
         "special_attack": 80,

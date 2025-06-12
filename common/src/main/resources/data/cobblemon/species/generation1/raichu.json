@@ -53,7 +53,9 @@
       "primaryType": "electric",
       "secondaryType": "psychic",
       "abilities": [
-        "surgesurfer"
+        "surgesurfer",
+        "lightningrod",
+        "h:minus"
       ],
       "baseStats": {
         "hp": 60,

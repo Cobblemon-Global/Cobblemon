@@ -26,7 +26,7 @@
       "primaryType": "steel",
       "secondaryType": "ground",
       "abilities": [
-        "sandforce"
+        "dauntlessshield"
       ],
       "baseStats": {
         "hp": 75,
