@@ -14,8 +14,8 @@
   "aspects": [],
   "abilities": [
     "innerfocus",
-    "regenerator",
-    "h:reckless"
+    "reckless",
+    "h:regenerator"
   ],
   "eggGroups": [
     "field",

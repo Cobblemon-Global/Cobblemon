@@ -17,7 +17,8 @@
   "aspects": [],
   "abilities": [
     "chlorophyll",
-    "h:harvest"
+    "harvest",
+    "h:evergreen"
   ],
   "eggGroups": [
     "grass"

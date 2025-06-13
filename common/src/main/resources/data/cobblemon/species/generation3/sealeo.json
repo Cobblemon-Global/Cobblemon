@@ -2,8 +2,8 @@
   "implemented": true,
   "nationalPokedexNumber": 364,
   "name": "Sealeo",
-  "primaryType": "ice",
-  "secondaryType": "water",
+  "primaryType": "water",
+  "secondaryType": "ice",
   "maleRatio": 0.5,
   "height": 11,
   "weight": 876,
@@ -17,7 +17,7 @@
   "abilities": [
     "thickfat",
     "icebody",
-    "h:oblivious"
+    "h:snowcloak"
   ],
   "eggGroups": [
     "water_1",

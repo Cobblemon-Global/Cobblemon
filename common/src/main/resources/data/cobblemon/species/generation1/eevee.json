@@ -14,9 +14,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "runaway",
     "adaptability",
-    "h:anticipation"
+    "h:protean"
   ],
   "eggGroups": [
     "field"

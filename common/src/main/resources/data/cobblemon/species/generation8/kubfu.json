@@ -14,8 +14,7 @@
   ],
   "aspects": [],
   "abilities": [
-    "innerfocus",
-    "h:innerfocus"
+    "innerfocus"
   ],
   "eggGroups": [
     "undiscovered"

@@ -16,8 +16,8 @@
   "aspects": [],
   "abilities": [
     "intimidate",
-    "moxie",
-    "h:angerpoint"
+    "angerpoint",
+    "h:moxie"
   ],
   "eggGroups": [
     "field"

@@ -2,8 +2,8 @@
   "implemented": true,
   "nationalPokedexNumber": 49,
   "name": "Venomoth",
-  "primaryType": "bug",
-  "secondaryType": "poison",
+  "primaryType": "poison",
+  "secondaryType": "bug",
   "maleRatio": 0.5,
   "height": 15,
   "weight": 125,
@@ -15,9 +15,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "shielddust",
-    "tintedlens",
-    "h:wonderskin"
+    "compoundeyes",
+    "wonderskin",
+    "h:tintedlens"
   ],
   "eggGroups": [
     "bug"

@@ -14,9 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "stench",
+    "neutralizinggas",
     "aftermath",
-    "h:keeneye"
+    "h:poisontouch"
   ],
   "eggGroups": [
     "field"

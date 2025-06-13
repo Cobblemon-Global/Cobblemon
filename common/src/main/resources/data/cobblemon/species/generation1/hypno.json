@@ -15,17 +15,17 @@
   "aspects": [],
   "abilities": [
     "insomnia",
-    "forewarn",
-    "h:innerfocus"
+    "innerfocus",
+    "h:baddreams"
   ],
   "eggGroups": [
     "human_like"
   ],
   "baseStats": {
-    "hp": 85,
+    "hp": 95,
     "attack": 73,
     "defence": 70,
-    "special_attack": 73,
+    "special_attack": 83,
     "special_defence": 115,
     "speed": 67
   },
@@ -217,5 +217,6 @@
     "tutor:zenheadbutt"
   ],
   "preEvolution": "drowzee",
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "fighting"
 }

@@ -23,7 +23,7 @@
   ],
   "baseStats": {
     "hp": 57,
-    "attack": 80,
+    "attack": 90,
     "defence": 115,
     "special_attack": 50,
     "special_defence": 80,
@@ -157,5 +157,6 @@
     "tutor:thunderfang"
   ],
   "preEvolution": "fidough",
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "fire"
 }

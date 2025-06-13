@@ -16,8 +16,8 @@
   "aspects": [],
   "abilities": [
     "oblivious",
-    "simple",
-    "h:owntempo"
+    "owntempo",
+    "h:simple"
   ],
   "eggGroups": [
     "field"

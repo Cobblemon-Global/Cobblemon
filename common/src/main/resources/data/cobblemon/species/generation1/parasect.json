@@ -3,7 +3,7 @@
   "nationalPokedexNumber": 47,
   "name": "Parasect",
   "primaryType": "bug",
-  "secondaryType": "grass",
+  "secondaryType": "ghost",
   "maleRatio": 0.5,
   "height": 10,
   "weight": 295,
@@ -17,15 +17,15 @@
   "abilities": [
     "effectspore",
     "dryskin",
-    "h:damp"
+    "h:sharpness"
   ],
   "eggGroups": [
     "bug",
     "grass"
   ],
   "baseStats": {
-    "hp": 60,
-    "attack": 95,
+    "hp": 70,
+    "attack": 110,
     "defence": 80,
     "special_attack": 60,
     "special_defence": 80,

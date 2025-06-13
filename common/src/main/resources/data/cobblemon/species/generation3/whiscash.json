@@ -16,8 +16,8 @@
   "aspects": [],
   "abilities": [
     "oblivious",
-    "anticipation",
-    "h:hydration"
+    "hydration",
+    "h:queenlymajesty"
   ],
   "eggGroups": [
     "water_2"

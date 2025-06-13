@@ -16,7 +16,7 @@
   "aspects": [],
   "abilities": [
     "slowstart",
-    "h:slowstart"
+    "h:clearbody"
   ],
   "eggGroups": [
     "undiscovered"

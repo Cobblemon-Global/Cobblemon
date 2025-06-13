@@ -17,8 +17,8 @@
     "tatsugiri-texture-curly"
   ],
   "abilities": [
-    "commander",
-    "h:stormdrain"
+    "stormdrain",
+    "h:adaptability"
   ],
   "eggGroups": [
     "water_2"

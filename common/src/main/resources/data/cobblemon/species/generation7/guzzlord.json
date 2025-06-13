@@ -16,17 +16,17 @@
   "aspects": [],
   "abilities": [
     "beastboost",
-    "h:beastboost"
+    "h:strongjaw"
   ],
   "eggGroups": [
     "undiscovered"
   ],
   "baseStats": {
-    "hp": 223,
+    "hp": 203,
     "attack": 101,
-    "defence": 53,
+    "defence": 63,
     "special_attack": 97,
-    "special_defence": 53,
+    "special_defence": 63,
     "speed": 43
   },
   "evYield": {

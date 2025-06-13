@@ -15,7 +15,8 @@
   "aspects": [],
   "abilities": [
     "shedskin",
-    "h:runaway"
+    "runaway",
+    "h:tintedlens"
   ],
   "eggGroups": [
     "bug"

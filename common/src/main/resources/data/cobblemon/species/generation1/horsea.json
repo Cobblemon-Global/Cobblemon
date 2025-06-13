@@ -15,8 +15,8 @@
   "aspects": [],
   "abilities": [
     "swiftswim",
-    "sniper",
-    "h:damp"
+    "damp",
+    "h:sniper"
   ],
   "eggGroups": [
     "water_1",

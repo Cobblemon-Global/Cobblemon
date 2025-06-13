@@ -14,9 +14,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "runaway",
-    "pickup",
-    "h:voltabsorb"
+    "voltabsorb",
+    "h:furcoat"
   ],
   "eggGroups": [
     "field",

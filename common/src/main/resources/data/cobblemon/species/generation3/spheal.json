@@ -2,8 +2,8 @@
   "implemented": true,
   "nationalPokedexNumber": 363,
   "name": "Spheal",
-  "primaryType": "ice",
-  "secondaryType": "water",
+  "primaryType": "water",
+  "secondaryType": "ice",
   "maleRatio": 0.5,
   "height": 8,
   "weight": 395,
@@ -17,7 +17,7 @@
   "abilities": [
     "thickfat",
     "icebody",
-    "h:oblivious"
+    "h:snowcloak"
   ],
   "eggGroups": [
     "water_1",

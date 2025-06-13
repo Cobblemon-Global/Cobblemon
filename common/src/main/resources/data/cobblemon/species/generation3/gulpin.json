@@ -14,8 +14,8 @@
   "aspects": [],
   "abilities": [
     "liquidooze",
-    "stickyhold",
-    "h:gluttony"
+    "gluttony",
+    "h:gooey"
   ],
   "eggGroups": [
     "amorphous"

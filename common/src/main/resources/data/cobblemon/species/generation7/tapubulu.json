@@ -15,8 +15,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "grassysurge",
-    "h:telepathy"
+    "telepathy",
+    "h:grassysurge"
   ],
   "eggGroups": [
     "undiscovered"

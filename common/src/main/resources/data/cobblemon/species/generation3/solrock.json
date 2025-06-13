@@ -16,18 +16,19 @@
   "aspects": [],
   "abilities": [
     "levitate",
-    "h:levitate"
+    "rockhead",
+    "h:solidrock"
   ],
   "eggGroups": [
     "mineral"
   ],
   "baseStats": {
-    "hp": 90,
-    "attack": 95,
-    "defence": 85,
-    "special_attack": 55,
-    "special_defence": 65,
-    "speed": 70
+    "hp": 100,
+    "attack": 115,
+    "defence": 100,
+    "special_attack": 50,
+    "special_defence": 80,
+    "speed": 80
   },
   "evYield": {
     "hp": 0,

@@ -1,7 +1,7 @@
 {
   "implemented": true,
   "nationalPokedexNumber": 865,
-  "name": "Sirfetch\u00e2\u20ac\u2122d",
+  "name": "Sirfetchâ€™d",
   "primaryType": "fighting",
   "maleRatio": 0.5,
   "height": 8,
@@ -16,8 +16,8 @@
     "galarian"
   ],
   "abilities": [
-    "steadfast",
-    "h:scrappy"
+    "scrappy",
+    "h:sharpness"
   ],
   "eggGroups": [
     "flying",

@@ -15,8 +15,8 @@
   "aspects": [],
   "abilities": [
     "cheekpouch",
-    "pickup",
-    "h:plus"
+    "static",
+    "h:lightningrod"
   ],
   "eggGroups": [
     "field",

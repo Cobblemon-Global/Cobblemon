@@ -2,8 +2,8 @@
   "implemented": true,
   "nationalPokedexNumber": 464,
   "name": "Rhyperior",
-  "primaryType": "ground",
-  "secondaryType": "rock",
+  "primaryType": "rock",
+  "secondaryType": "ground",
   "maleRatio": 0.5,
   "height": 24,
   "weight": 2828,
@@ -15,8 +15,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "lightningrod",
     "solidrock",
+    "sturdy",
     "h:reckless"
   ],
   "eggGroups": [

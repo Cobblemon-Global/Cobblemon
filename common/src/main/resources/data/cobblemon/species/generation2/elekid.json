@@ -15,8 +15,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "static",
-    "h:vitalspirit"
+    "motordrive",
+    "vitalspirit",
+    "h:ironfist"
   ],
   "eggGroups": [
     "undiscovered"

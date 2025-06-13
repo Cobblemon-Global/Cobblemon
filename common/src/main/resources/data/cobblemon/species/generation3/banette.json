@@ -229,5 +229,6 @@
       "evolutions": [],
       "battleOnly": true
     }
-  ]
+  ],
+  "secondaryType": "normal"
 }

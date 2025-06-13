@@ -14,9 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "illuminate",
     "naturalcure",
-    "h:analytic"
+    "analytic",
+    "h:victorystar"
   ],
   "eggGroups": [
     "water_3"

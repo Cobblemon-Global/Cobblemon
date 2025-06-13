@@ -16,8 +16,8 @@
   "aspects": [],
   "abilities": [
     "shellarmor",
-    "skilllink",
-    "h:overcoat"
+    "overcoat",
+    "h:skilllink"
   ],
   "eggGroups": [
     "water_3"

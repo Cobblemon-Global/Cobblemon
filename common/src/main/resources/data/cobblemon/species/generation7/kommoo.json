@@ -16,8 +16,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "bulletproof",
     "soundproof",
+    "bulletproof",
     "h:overcoat"
   ],
   "eggGroups": [

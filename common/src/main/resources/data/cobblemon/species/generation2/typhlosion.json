@@ -375,5 +375,6 @@
       "evolutions": [],
       "battleOnly": false
     }
-  ]
+  ],
+  "secondaryType": "ground"
 }

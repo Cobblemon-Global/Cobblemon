@@ -15,7 +15,7 @@
   ],
   "aspects": [],
   "abilities": [
-    "swarm",
+    "poisontouch",
     "insomnia",
     "h:sniper"
   ],
@@ -23,12 +23,12 @@
     "bug"
   ],
   "baseStats": {
-    "hp": 70,
-    "attack": 90,
+    "hp": 80,
+    "attack": 100,
     "defence": 70,
     "special_attack": 60,
     "special_defence": 70,
-    "speed": 40
+    "speed": 60
   },
   "evYield": {
     "hp": 0,

@@ -14,8 +14,7 @@
   ],
   "aspects": [],
   "abilities": [
-    "magnetpull",
-    "h:magnetpull"
+    "magnetpull"
   ],
   "eggGroups": [
     "undiscovered"

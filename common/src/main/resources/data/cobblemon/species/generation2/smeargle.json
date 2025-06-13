@@ -15,8 +15,7 @@
   "aspects": [],
   "abilities": [
     "owntempo",
-    "technician",
-    "h:moody"
+    "technician"
   ],
   "eggGroups": [
     "field"

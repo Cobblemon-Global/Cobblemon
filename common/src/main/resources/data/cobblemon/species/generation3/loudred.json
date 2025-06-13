@@ -15,7 +15,8 @@
   "aspects": [],
   "abilities": [
     "soundproof",
-    "h:scrappy"
+    "scrappy",
+    "h:punkrock"
   ],
   "eggGroups": [
     "monster",

@@ -14,9 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "rivalry",
     "intimidate",
-    "h:guts"
+    "guts",
+    "h:strongjaw"
   ],
   "eggGroups": [
     "field"

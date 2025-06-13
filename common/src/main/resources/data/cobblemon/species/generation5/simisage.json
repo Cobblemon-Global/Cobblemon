@@ -13,8 +13,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "gluttony",
-    "h:overgrow"
+    "overgrow",
+    "sapsipper",
+    "h:soundproof"
   ],
   "eggGroups": [
     "field"

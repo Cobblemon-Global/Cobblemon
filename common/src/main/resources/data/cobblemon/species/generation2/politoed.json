@@ -16,7 +16,7 @@
   "abilities": [
     "waterabsorb",
     "damp",
-    "h:drizzle"
+    "h:regenerator"
   ],
   "eggGroups": [
     "water_1"

@@ -13,9 +13,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "cutecharm",
+    "simple",
     "normalize",
-    "h:wonderskin"
+    "h:prankster"
   ],
   "eggGroups": [
     "field",
@@ -27,7 +27,7 @@
     "defence": 45,
     "special_attack": 35,
     "special_defence": 35,
-    "speed": 50
+    "speed": 60
   },
   "evYield": {
     "hp": 0,

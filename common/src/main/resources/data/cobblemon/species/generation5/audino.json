@@ -14,7 +14,7 @@
   "aspects": [],
   "abilities": [
     "healer",
-    "naturalcare",
+    "naturalcure",
     "h:regenerator"
   ],
   "eggGroups": [

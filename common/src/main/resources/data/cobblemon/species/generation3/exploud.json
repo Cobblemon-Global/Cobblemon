@@ -15,14 +15,15 @@
   "aspects": [],
   "abilities": [
     "soundproof",
-    "h:scrappy"
+    "scrappy",
+    "h:punkrock"
   ],
   "eggGroups": [
     "monster",
     "field"
   ],
   "baseStats": {
-    "hp": 104,
+    "hp": 114,
     "attack": 91,
     "defence": 63,
     "special_attack": 91,

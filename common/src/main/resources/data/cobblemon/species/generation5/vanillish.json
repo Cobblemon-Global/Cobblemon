@@ -14,8 +14,8 @@
   "aspects": [],
   "abilities": [
     "icebody",
-    "snowcloak",
-    "h:weakarmor"
+    "weakarmor",
+    "h:refrigerate"
   ],
   "eggGroups": [
     "mineral"

@@ -15,6 +15,7 @@
   "aspects": [],
   "abilities": [
     "pressure",
+    "cursedbody",
     "h:frisk"
   ],
   "eggGroups": [

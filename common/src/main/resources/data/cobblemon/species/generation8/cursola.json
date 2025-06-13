@@ -16,7 +16,8 @@
   ],
   "abilities": [
     "weakarmor",
-    "h:perishbody"
+    "perishbody",
+    "h:regenerator"
   ],
   "eggGroups": [
     "water_1",

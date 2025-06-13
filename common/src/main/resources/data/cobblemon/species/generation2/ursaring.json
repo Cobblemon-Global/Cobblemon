@@ -14,9 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "guts",
     "quickfeet",
-    "h:unnerve"
+    "unnerve",
+    "h:guts"
   ],
   "eggGroups": [
     "field"

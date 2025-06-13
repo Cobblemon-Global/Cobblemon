@@ -15,8 +15,8 @@
   "aspects": [],
   "abilities": [
     "battlearmor",
-    "sniper",
-    "h:keeneye"
+    "poisonpoint",
+    "h:sniper"
   ],
   "eggGroups": [
     "bug",

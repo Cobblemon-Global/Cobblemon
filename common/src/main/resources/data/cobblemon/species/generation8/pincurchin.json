@@ -15,14 +15,15 @@
   "aspects": [],
   "abilities": [
     "lightningrod",
-    "h:electricsurge"
+    "ironbarbs",
+    "h:transistor"
   ],
   "eggGroups": [
     "water_1",
     "amorphous"
   ],
   "baseStats": {
-    "hp": 48,
+    "hp": 58,
     "attack": 101,
     "defence": 95,
     "special_attack": 91,

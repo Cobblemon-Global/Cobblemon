@@ -13,8 +13,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "gluttony",
-    "h:blaze"
+    "blaze",
+    "flashfire",
+    "h:punkrock"
   ],
   "eggGroups": [
     "field"

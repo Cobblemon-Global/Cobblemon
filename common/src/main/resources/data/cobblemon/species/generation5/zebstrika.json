@@ -13,9 +13,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "lightningrod",
     "motordrive",
-    "h:sapsipper"
+    "sapsipper",
+    "h:reckless"
   ],
   "eggGroups": [
     "field"

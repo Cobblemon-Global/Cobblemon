@@ -15,7 +15,8 @@
   "aspects": [],
   "abilities": [
     "snowcloak",
-    "h:cursedbody"
+    "cursedbody",
+    "h:levitate"
   ],
   "eggGroups": [
     "fairy",

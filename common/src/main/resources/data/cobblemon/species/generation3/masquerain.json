@@ -3,7 +3,7 @@
   "nationalPokedexNumber": 284,
   "name": "Masquerain",
   "primaryType": "bug",
-  "secondaryType": "flying",
+  "secondaryType": "water",
   "maleRatio": 0.5,
   "height": 8,
   "weight": 36,
@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "intimidate",
-    "h:unnerve"
+    "swiftswim",
+    "h:tintedlens"
   ],
   "eggGroups": [
     "water_1",

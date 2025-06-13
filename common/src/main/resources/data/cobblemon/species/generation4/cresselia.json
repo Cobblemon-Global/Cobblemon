@@ -14,8 +14,7 @@
   ],
   "aspects": [],
   "abilities": [
-    "levitate",
-    "h:levitate"
+    "levitate"
   ],
   "eggGroups": [
     "undiscovered"
@@ -23,9 +22,9 @@
   "baseStats": {
     "hp": 120,
     "attack": 70,
-    "defence": 110,
+    "defence": 120,
     "special_attack": 75,
-    "special_defence": 120,
+    "special_defence": 130,
     "speed": 85
   },
   "evYield": {

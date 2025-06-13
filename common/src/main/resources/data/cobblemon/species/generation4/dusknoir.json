@@ -15,7 +15,8 @@
   "aspects": [],
   "abilities": [
     "pressure",
-    "h:frisk"
+    "levitate",
+    "h:ironfist"
   ],
   "eggGroups": [
     "amorphous"
@@ -221,5 +222,6 @@
     "tutor:wonderroom"
   ],
   "preEvolution": "dusclops",
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "fighting"
 }

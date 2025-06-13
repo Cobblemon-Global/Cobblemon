@@ -15,7 +15,8 @@
   "aspects": [],
   "abilities": [
     "overgrow",
-    "h:leafguard"
+    "naturalcure",
+    "h:triage"
   ],
   "eggGroups": [
     "monster",
@@ -191,5 +192,6 @@
     "tutor:zenheadbutt"
   ],
   "preEvolution": "bayleef",
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "fairy"
 }

@@ -15,8 +15,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "magnetpull",
     "sturdy",
+    "magnetpull",
     "h:analytic"
   ],
   "eggGroups": [

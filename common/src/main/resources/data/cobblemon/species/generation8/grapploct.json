@@ -154,5 +154,6 @@
     "tutor:superpower"
   ],
   "preEvolution": "clobbopus",
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "water"
 }

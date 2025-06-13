@@ -16,14 +16,14 @@
   "abilities": [
     "thickfat",
     "scrappy",
-    "h:sapsipper"
+    "h:serenegrace"
   ],
   "eggGroups": [
     "field"
   ],
   "baseStats": {
     "hp": 95,
-    "attack": 80,
+    "attack": 100,
     "defence": 105,
     "special_attack": 40,
     "special_defence": 70,
@@ -204,5 +204,6 @@
     "tutor:waterpulse",
     "tutor:zenheadbutt"
   ],
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "fairy"
 }

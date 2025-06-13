@@ -2,7 +2,7 @@
   "implemented": true,
   "nationalPokedexNumber": 22,
   "name": "Fearow",
-  "primaryType": "normal",
+  "primaryType": "dark",
   "secondaryType": "flying",
   "maleRatio": 0.5,
   "height": 12,
@@ -15,8 +15,9 @@
   ],
   "aspects": [],
   "abilities": [
+    "sniper",
     "keeneye",
-    "h:sniper"
+    "h:superluck"
   ],
   "eggGroups": [
     "flying"

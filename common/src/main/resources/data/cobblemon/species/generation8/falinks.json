@@ -22,7 +22,7 @@
     "mineral"
   ],
   "baseStats": {
-    "hp": 65,
+    "hp": 75,
     "attack": 100,
     "defence": 100,
     "special_attack": 70,

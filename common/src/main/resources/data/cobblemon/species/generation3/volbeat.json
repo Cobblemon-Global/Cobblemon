@@ -16,7 +16,7 @@
   "abilities": [
     "illuminate",
     "swarm",
-    "h:prankster"
+    "h:sheerforce"
   ],
   "eggGroups": [
     "bug",
@@ -24,7 +24,7 @@
   ],
   "baseStats": {
     "hp": 65,
-    "attack": 73,
+    "attack": 83,
     "defence": 75,
     "special_attack": 47,
     "special_defence": 85,

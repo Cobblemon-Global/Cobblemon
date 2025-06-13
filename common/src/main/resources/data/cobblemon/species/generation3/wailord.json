@@ -16,7 +16,7 @@
   "abilities": [
     "waterveil",
     "oblivious",
-    "h:pressure"
+    "h:adaptability"
   ],
   "eggGroups": [
     "field",
@@ -25,10 +25,10 @@
   "baseStats": {
     "hp": 170,
     "attack": 90,
-    "defence": 45,
+    "defence": 55,
     "special_attack": 90,
-    "special_defence": 45,
-    "speed": 60
+    "special_defence": 55,
+    "speed": 40
   },
   "evYield": {
     "hp": 2,

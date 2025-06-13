@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "pressure",
-    "h:pickpocket"
+    "pickpocket",
+    "h:technician"
   ],
   "eggGroups": [
     "field"

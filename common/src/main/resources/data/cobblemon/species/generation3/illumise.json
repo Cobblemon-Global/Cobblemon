@@ -14,8 +14,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "oblivious",
-    "tintedlens",
+    "illuminate",
+    "swarm",
     "h:prankster"
   ],
   "eggGroups": [
@@ -23,7 +23,7 @@
     "human_like"
   ],
   "baseStats": {
-    "hp": 65,
+    "hp": 75,
     "attack": 47,
     "defence": 75,
     "special_attack": 73,

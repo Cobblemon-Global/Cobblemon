@@ -227,5 +227,6 @@
     "tutor:waterpulse"
   ],
   "preEvolution": "croconaw",
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "dark"
 }

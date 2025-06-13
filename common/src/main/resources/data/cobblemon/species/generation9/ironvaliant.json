@@ -16,7 +16,7 @@
   "aspects": [],
   "abilities": [
     "quarkdrive",
-    "h:quarkdrive"
+    "h:trace"
   ],
   "eggGroups": [
     "undiscovered"

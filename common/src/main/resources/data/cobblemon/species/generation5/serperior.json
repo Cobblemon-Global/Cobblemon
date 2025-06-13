@@ -184,5 +184,6 @@
     "tutor:worryseed"
   ],
   "preEvolution": "servine",
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "dragon"
 }

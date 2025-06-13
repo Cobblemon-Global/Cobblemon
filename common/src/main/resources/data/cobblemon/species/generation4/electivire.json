@@ -15,7 +15,8 @@
   "aspects": [],
   "abilities": [
     "motordrive",
-    "h:vitalspirit"
+    "vitalspirit",
+    "h:ironfist"
   ],
   "eggGroups": [
     "human_like"
@@ -197,5 +198,6 @@
     "tutor:wildcharge"
   ],
   "preEvolution": "electabuzz",
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "fighting"
 }

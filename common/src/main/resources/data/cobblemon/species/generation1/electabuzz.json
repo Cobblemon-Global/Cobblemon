@@ -14,8 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "static",
-    "h:vitalspirit"
+    "motordrive",
+    "vitalspirit",
+    "h:ironfist"
   ],
   "eggGroups": [
     "human_like"

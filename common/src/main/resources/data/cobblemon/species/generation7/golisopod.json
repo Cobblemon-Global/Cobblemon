@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "emergencyexit",
-    "h:emergencyexit"
+    "shellarmor",
+    "h:toughclaws"
   ],
   "eggGroups": [
     "bug",

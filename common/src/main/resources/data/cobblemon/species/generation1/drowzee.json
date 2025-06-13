@@ -15,8 +15,8 @@
   "aspects": [],
   "abilities": [
     "insomnia",
-    "forewarn",
-    "h:innerfocus"
+    "innerfocus",
+    "h:baddreams"
   ],
   "eggGroups": [
     "human_like"

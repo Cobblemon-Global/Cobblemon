@@ -16,19 +16,19 @@
   "aspects": [],
   "abilities": [
     "swarm",
-    "earlybird",
-    "h:ironfist"
+    "ironfist",
+    "h:hugepower"
   ],
   "eggGroups": [
     "bug"
   ],
   "baseStats": {
     "hp": 55,
-    "attack": 35,
+    "attack": 50,
     "defence": 50,
     "special_attack": 55,
     "special_defence": 110,
-    "speed": 85
+    "speed": 105
   },
   "evYield": {
     "hp": 0,

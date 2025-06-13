@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "flamebody",
-    "h:vitalspirit"
+    "vitalspirit",
+    "h:megalauncher"
   ],
   "eggGroups": [
     "undiscovered"

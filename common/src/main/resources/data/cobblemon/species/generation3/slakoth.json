@@ -15,7 +15,7 @@
   "aspects": [],
   "abilities": [
     "truant",
-    "h:truant"
+    "h:slowstart"
   ],
   "eggGroups": [
     "field"

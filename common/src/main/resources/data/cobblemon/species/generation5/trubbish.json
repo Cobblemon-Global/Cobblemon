@@ -14,8 +14,8 @@
   "aspects": [],
   "abilities": [
     "stench",
-    "stickyhold",
-    "h:aftermath"
+    "weakarmor",
+    "h:toxicdebris"
   ],
   "eggGroups": [
     "mineral"

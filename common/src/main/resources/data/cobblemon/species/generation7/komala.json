@@ -14,19 +14,18 @@
   ],
   "aspects": [],
   "abilities": [
-    "comatose",
-    "h:comatose"
+    "comatose"
   ],
   "eggGroups": [
     "field"
   ],
   "baseStats": {
-    "hp": 65,
+    "hp": 70,
     "attack": 115,
     "defence": 65,
     "special_attack": 75,
     "special_defence": 95,
-    "speed": 65
+    "speed": 70
   },
   "evYield": {
     "hp": 0,

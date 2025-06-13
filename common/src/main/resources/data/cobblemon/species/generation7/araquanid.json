@@ -15,8 +15,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "waterbubble",
-    "h:waterabsorb"
+    "waterabsorb",
+    "h:waterbubble"
   ],
   "eggGroups": [
     "water_1",

@@ -14,8 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "purepower",
-    "h:telepathy"
+    "telepathy",
+    "ironfist",
+    "h:purepower"
   ],
   "eggGroups": [
     "human_like"

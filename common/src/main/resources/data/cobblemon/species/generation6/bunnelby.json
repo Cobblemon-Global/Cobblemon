@@ -2,7 +2,7 @@
   "implemented": true,
   "nationalPokedexNumber": 659,
   "name": "Bunnelby",
-  "primaryType": "normal",
+  "primaryType": "fairy",
   "maleRatio": 0.5,
   "height": 4,
   "weight": 50,
@@ -27,7 +27,7 @@
     "defence": 38,
     "special_attack": 32,
     "special_defence": 36,
-    "speed": 57
+    "speed": 72
   },
   "evYield": {
     "hp": 0,

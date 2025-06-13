@@ -16,7 +16,7 @@
   ],
   "abilities": [
     "furcoat",
-    "h:furcoat"
+    "h:normalize"
   ],
   "eggGroups": [
     "field"
@@ -25,7 +25,7 @@
     "hp": 75,
     "attack": 80,
     "defence": 60,
-    "special_attack": 65,
+    "special_attack": 75,
     "special_defence": 90,
     "speed": 102
   },

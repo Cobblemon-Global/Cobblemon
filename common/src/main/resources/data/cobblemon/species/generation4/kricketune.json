@@ -14,19 +14,20 @@
   ],
   "aspects": [],
   "abilities": [
-    "swarm",
-    "h:technician"
+    "shedskin",
+    "technician",
+    "h:tintedlens"
   ],
   "eggGroups": [
     "bug"
   ],
   "baseStats": {
-    "hp": 77,
+    "hp": 87,
     "attack": 85,
     "defence": 51,
     "special_attack": 55,
     "special_defence": 51,
-    "speed": 65
+    "speed": 71
   },
   "evYield": {
     "hp": 0,

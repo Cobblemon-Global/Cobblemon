@@ -18,18 +18,18 @@
   "abilities": [
     "solidrock",
     "sturdy",
-    "h:swiftswim"
+    "h:shellarmor"
   ],
   "eggGroups": [
     "water_1",
     "water_3"
   ],
   "baseStats": {
-    "hp": 74,
+    "hp": 84,
     "attack": 108,
     "defence": 133,
-    "special_attack": 83,
-    "special_defence": 65,
+    "special_attack": 93,
+    "special_defence": 75,
     "speed": 32
   },
   "evYield": {

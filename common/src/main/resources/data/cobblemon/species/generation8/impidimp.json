@@ -15,9 +15,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "prankster",
+    "pickpocket",
     "frisk",
-    "h:pickpocket"
+    "h:prankster"
   ],
   "eggGroups": [
     "fairy",

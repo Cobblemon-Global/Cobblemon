@@ -14,7 +14,7 @@
   "aspects": [],
   "abilities": [
     "swarm",
-    "h:swarm"
+    "h:speedboost"
   ],
   "eggGroups": [
     "bug"

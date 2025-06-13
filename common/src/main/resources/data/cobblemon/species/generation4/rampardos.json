@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "moldbreaker",
-    "h:sheerforce"
+    "sheerforce",
+    "h:rockhead"
   ],
   "eggGroups": [
     "monster"
@@ -24,10 +25,10 @@
   "baseStats": {
     "hp": 97,
     "attack": 165,
-    "defence": 60,
-    "special_attack": 65,
+    "defence": 70,
+    "special_attack": 75,
     "special_defence": 50,
-    "speed": 58
+    "speed": 68
   },
   "evYield": {
     "hp": 0,

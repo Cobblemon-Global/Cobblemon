@@ -15,18 +15,18 @@
   "aspects": [],
   "abilities": [
     "levitate",
-    "h:levitate"
+    "h:strongjaw"
   ],
   "eggGroups": [
     "grass"
   ],
   "baseStats": {
-    "hp": 74,
+    "hp": 84,
     "attack": 100,
     "defence": 72,
     "special_attack": 90,
     "special_defence": 72,
-    "speed": 46
+    "speed": 61
   },
   "evYield": {
     "hp": 0,

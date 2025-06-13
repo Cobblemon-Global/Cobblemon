@@ -2,8 +2,8 @@
   "implemented": true,
   "nationalPokedexNumber": 586,
   "name": "Sawsbuck",
-  "primaryType": "normal",
-  "secondaryType": "grass",
+  "primaryType": "grass",
+  "secondaryType": "normal",
   "maleRatio": 0.5,
   "height": 19,
   "weight": 925,
@@ -26,11 +26,11 @@
   ],
   "baseStats": {
     "hp": 80,
-    "attack": 100,
+    "attack": 110,
     "defence": 70,
     "special_attack": 60,
     "special_defence": 70,
-    "speed": 95
+    "speed": 100
   },
   "evYield": {
     "hp": 0,

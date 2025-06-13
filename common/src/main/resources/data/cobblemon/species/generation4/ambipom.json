@@ -14,8 +14,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "technician",
     "pickup",
+    "technician",
     "h:skilllink"
   ],
   "eggGroups": [

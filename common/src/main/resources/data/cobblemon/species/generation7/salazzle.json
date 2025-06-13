@@ -15,8 +15,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "corrosion",
-    "h:oblivious"
+    "oblivious",
+    "h:corrosion"
   ],
   "eggGroups": [
     "monster",
