@@ -15,8 +15,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "psychicsurge",
-    "h:telepathy"
+    "telepathy",
+    "h:psychicsurge"
   ],
   "eggGroups": [
     "undiscovered"

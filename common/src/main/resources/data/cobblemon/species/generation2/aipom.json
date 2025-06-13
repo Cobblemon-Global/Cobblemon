@@ -14,8 +14,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "runaway",
     "pickup",
+    "technician",
     "h:skilllink"
   ],
   "eggGroups": [

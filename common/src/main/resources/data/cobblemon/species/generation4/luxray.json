@@ -14,20 +14,20 @@
   ],
   "aspects": [],
   "abilities": [
-    "rivalry",
     "intimidate",
-    "h:guts"
+    "guts",
+    "h:strongjaw"
   ],
   "eggGroups": [
     "field"
   ],
   "baseStats": {
-    "hp": 80,
-    "attack": 120,
-    "defence": 79,
-    "special_attack": 95,
-    "special_defence": 79,
-    "speed": 70
+    "hp": 90,
+    "attack": 130,
+    "defence": 70,
+    "special_attack": 80,
+    "special_defence": 70,
+    "speed": 95
   },
   "evYield": {
     "hp": 0,
@@ -175,5 +175,6 @@
     "tutor:wildcharge"
   ],
   "preEvolution": "luxio",
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "dark"
 }

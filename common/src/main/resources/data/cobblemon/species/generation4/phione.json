@@ -14,20 +14,19 @@
   ],
   "aspects": [],
   "abilities": [
-    "hydration",
-    "h:hydration"
+    "hydration"
   ],
   "eggGroups": [
     "water_1",
     "fairy"
   ],
   "baseStats": {
-    "hp": 80,
-    "attack": 80,
-    "defence": 80,
-    "special_attack": 80,
-    "special_defence": 80,
-    "speed": 80
+    "hp": 85,
+    "attack": 85,
+    "defence": 85,
+    "special_attack": 100,
+    "special_defence": 85,
+    "speed": 100
   },
   "evYield": {
     "hp": 1,

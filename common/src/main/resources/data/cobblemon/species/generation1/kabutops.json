@@ -18,19 +18,19 @@
   "abilities": [
     "swiftswim",
     "battlearmor",
-    "h:weakarmor"
+    "h:sharpness"
   ],
   "eggGroups": [
     "water_1",
     "water_3"
   ],
   "baseStats": {
-    "hp": 60,
-    "attack": 115,
+    "hp": 75,
+    "attack": 125,
     "defence": 105,
     "special_attack": 65,
     "special_defence": 70,
-    "speed": 80
+    "speed": 85
   },
   "evYield": {
     "hp": 0,

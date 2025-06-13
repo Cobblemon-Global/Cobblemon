@@ -15,16 +15,17 @@
   "aspects": [],
   "abilities": [
     "swiftswim",
-    "h:waterveil"
+    "waterveil",
+    "h:weakarmor"
   ],
   "eggGroups": [
     "water_1"
   ],
   "baseStats": {
     "hp": 55,
-    "attack": 104,
+    "attack": 115,
     "defence": 105,
-    "special_attack": 94,
+    "special_attack": 84,
     "special_defence": 75,
     "speed": 52
   },
@@ -161,5 +162,6 @@
     "tutor:waterpulse"
   ],
   "preEvolution": "clamperl",
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "steel"
 }

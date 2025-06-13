@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "moldbreaker",
-    "h:sheerforce"
+    "sheerforce",
+    "h:rockhead"
   ],
   "eggGroups": [
     "monster"

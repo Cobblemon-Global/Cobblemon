@@ -13,9 +13,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "static",
+    "intimidate",
     "lightningrod",
-    "h:minus"
+    "h:flareboost"
   ],
   "eggGroups": [
     "field"

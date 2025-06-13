@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "pressure",
-    "h:unnerve"
+    "intimidate",
+    "h:parentalbond"
   ],
   "eggGroups": [
     "bug"

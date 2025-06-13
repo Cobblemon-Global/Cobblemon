@@ -16,7 +16,7 @@
   "aspects": [],
   "abilities": [
     "synchronize",
-    "h:synchronize"
+    "h:oblivious"
   ],
   "eggGroups": [
     "undiscovered"

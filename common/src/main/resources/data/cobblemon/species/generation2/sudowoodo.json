@@ -14,19 +14,19 @@
   ],
   "aspects": [],
   "abilities": [
-    "sturdy",
     "rockhead",
-    "h:rattled"
+    "sturdy",
+    "h:disguise"
   ],
   "eggGroups": [
     "mineral"
   ],
   "baseStats": {
-    "hp": 70,
-    "attack": 100,
+    "hp": 80,
+    "attack": 110,
     "defence": 115,
     "special_attack": 30,
-    "special_defence": 65,
+    "special_defence": 75,
     "speed": 30
   },
   "evYield": {

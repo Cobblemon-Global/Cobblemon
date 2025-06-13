@@ -15,9 +15,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "steadfast",
-    "sharpness",
-    "h:justified"
+    "innerfocus",
+    "justified",
+    "h:sharpness"
   ],
   "eggGroups": [
     "human_like",

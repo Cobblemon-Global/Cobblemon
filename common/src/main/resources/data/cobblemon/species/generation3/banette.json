@@ -14,8 +14,8 @@
   "aspects": [],
   "abilities": [
     "insomnia",
-    "frisk",
-    "h:cursedbody"
+    "cursedbody",
+    "h:prankster"
   ],
   "eggGroups": [
     "amorphous"
@@ -230,5 +230,6 @@
       "evolutions": [],
       "battleOnly": true
     }
-  ]
+  ],
+  "secondaryType": "normal"
 }

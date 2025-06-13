@@ -17,17 +17,18 @@
   "aspects": [],
   "abilities": [
     "sturdy",
-    "h:soundproof"
+    "soundproof",
+    "h:eartheater"
   ],
   "eggGroups": [
     "monster"
   ],
   "baseStats": {
     "hp": 60,
-    "attack": 52,
+    "attack": 72,
     "defence": 168,
     "special_attack": 47,
-    "special_defence": 138,
+    "special_defence": 148,
     "speed": 30
   },
   "evYield": {

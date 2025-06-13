@@ -15,20 +15,19 @@
     "overcast-form"
   ],
   "abilities": [
-    "flowergift",
-    "h:flowergift"
+    "flowergift"
   ],
   "eggGroups": [
     "fairy",
     "grass"
   ],
   "baseStats": {
-    "hp": 70,
+    "hp": 90,
     "attack": 60,
     "defence": 70,
     "special_attack": 87,
     "special_defence": 78,
-    "speed": 85
+    "speed": 90
   },
   "evYield": {
     "hp": 0,

@@ -16,8 +16,7 @@
   ],
   "aspects": [],
   "abilities": [
-    "hadronengine",
-    "h:hadronengine"
+    "speedboost"
   ],
   "eggGroups": [
     "undiscovered"

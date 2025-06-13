@@ -54,7 +54,9 @@
   "ai": [
     {
       "type": "apply_behaviours",
-      "presets": ["cobblemon:eats_grass"]
+      "presets": [
+        "cobblemon:eats_grass"
+      ]
     }
   ],
   "standingEyeHeight": 0.6,

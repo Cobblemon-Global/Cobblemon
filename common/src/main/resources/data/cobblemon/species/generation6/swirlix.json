@@ -14,7 +14,8 @@
   "aspects": [],
   "abilities": [
     "sweetveil",
-    "h:unburden"
+    "unburden",
+    "h:wellbakedbody"
   ],
   "eggGroups": [
     "fairy"

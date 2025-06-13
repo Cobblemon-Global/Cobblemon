@@ -15,8 +15,8 @@
   "aspects": [],
   "abilities": [
     "vitalspirit",
-    "pickup",
-    "h:runaway"
+    "sandrush",
+    "h:scrappy"
   ],
   "eggGroups": [
     "field"

@@ -15,8 +15,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "watercompaction",
-    "h:sandveil"
+    "waterabsorb",
+    "sandveil",
+    "h:watercompaction"
   ],
   "eggGroups": [
     "amorphous"

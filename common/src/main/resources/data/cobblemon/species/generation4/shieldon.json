@@ -17,7 +17,8 @@
   "aspects": [],
   "abilities": [
     "sturdy",
-    "h:soundproof"
+    "soundproof",
+    "h:eartheater"
   ],
   "eggGroups": [
     "monster"

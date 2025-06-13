@@ -14,9 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "hydration",
+    "unburden",
     "stickyhold",
-    "h:unburden"
+    "h:tintedlens"
   ],
   "eggGroups": [
     "bug"

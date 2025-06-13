@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "pressure",
-    "h:infiltrator"
+    "infiltrator",
+    "h:darkaura"
   ],
   "eggGroups": [
     "amorphous"

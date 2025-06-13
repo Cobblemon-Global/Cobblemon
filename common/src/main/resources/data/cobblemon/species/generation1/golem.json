@@ -16,8 +16,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "rockhead",
     "sturdy",
+    "rockhead",
     "h:sandveil"
   ],
   "eggGroups": [

@@ -15,8 +15,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "mistysurge",
-    "h:telepathy"
+    "telepathy",
+    "h:mistysurge"
   ],
   "eggGroups": [
     "undiscovered"

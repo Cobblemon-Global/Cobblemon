@@ -2,8 +2,8 @@
   "implemented": true,
   "nationalPokedexNumber": 365,
   "name": "Walrein",
-  "primaryType": "ice",
-  "secondaryType": "water",
+  "primaryType": "water",
+  "secondaryType": "ice",
   "maleRatio": 0.5,
   "height": 14,
   "weight": 1506,
@@ -17,7 +17,7 @@
   "abilities": [
     "thickfat",
     "icebody",
-    "h:oblivious"
+    "h:snowcloak"
   ],
   "eggGroups": [
     "water_1",

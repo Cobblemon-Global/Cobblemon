@@ -15,9 +15,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "magmaarmor",
     "solidrock",
-    "h:angerpoint"
+    "angerpoint",
+    "h:simple"
   ],
   "eggGroups": [
     "field"

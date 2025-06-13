@@ -28,7 +28,7 @@
     "defence": 78,
     "special_attack": 95,
     "special_defence": 80,
-    "speed": 85
+    "speed": 90
   },
   "evYield": {
     "hp": 0,
@@ -231,5 +231,6 @@
     "tutor:zenheadbutt"
   ],
   "preEvolution": "psyduck",
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "psychic"
 }

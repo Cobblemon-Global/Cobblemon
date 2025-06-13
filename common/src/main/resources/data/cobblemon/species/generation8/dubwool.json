@@ -15,7 +15,7 @@
   "aspects": [],
   "abilities": [
     "fluffy",
-    "steadfast",
+    "runaway",
     "h:bulletproof"
   ],
   "eggGroups": [
@@ -60,7 +60,9 @@
   "ai": [
     {
       "type": "apply_behaviours",
-      "presets": ["cobblemon:eats_grass"]
+      "presets": [
+        "cobblemon:eats_grass"
+      ]
     }
   ],
   "drops": {

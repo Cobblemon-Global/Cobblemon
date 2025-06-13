@@ -15,6 +15,7 @@
   "aspects": [],
   "abilities": [
     "levitate",
+    "cursedbody",
     "h:frisk"
   ],
   "eggGroups": [

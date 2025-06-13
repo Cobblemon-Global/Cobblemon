@@ -60,7 +60,7 @@
       "fly": {
         "canFly": true
       },
-      "walk":  {
+      "walk": {
         "canWalk": false
       }
     },

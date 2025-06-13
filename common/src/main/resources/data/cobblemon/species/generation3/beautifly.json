@@ -15,7 +15,8 @@
   "aspects": [],
   "abilities": [
     "swarm",
-    "h:rivalry"
+    "rivalry",
+    "h:triage"
   ],
   "eggGroups": [
     "bug"

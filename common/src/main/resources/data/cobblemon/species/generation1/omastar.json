@@ -25,10 +25,10 @@
     "water_3"
   ],
   "baseStats": {
-    "hp": 70,
-    "attack": 60,
+    "hp": 80,
+    "attack": 70,
     "defence": 125,
-    "special_attack": 115,
+    "special_attack": 125,
     "special_defence": 70,
     "speed": 55
   },

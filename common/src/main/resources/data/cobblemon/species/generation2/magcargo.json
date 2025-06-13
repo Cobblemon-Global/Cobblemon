@@ -15,9 +15,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "magmaarmor",
+    "shellarmor",
     "flamebody",
-    "h:weakarmor"
+    "h:waterabsorb"
   ],
   "eggGroups": [
     "amorphous"

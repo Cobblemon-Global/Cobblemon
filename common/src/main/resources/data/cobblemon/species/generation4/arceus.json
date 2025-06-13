@@ -14,8 +14,7 @@
   ],
   "aspects": [],
   "abilities": [
-    "multitype",
-    "h:multitype"
+    "multitype"
   ],
   "eggGroups": [
     "undiscovered"

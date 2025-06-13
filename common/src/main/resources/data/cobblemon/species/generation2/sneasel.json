@@ -16,9 +16,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "innerfocus",
-    "keeneye",
-    "h:pickpocket"
+    "pressure",
+    "pickpocket",
+    "h:technician"
   ],
   "eggGroups": [
     "field"

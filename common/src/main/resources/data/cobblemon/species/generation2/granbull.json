@@ -16,7 +16,7 @@
   "abilities": [
     "intimidate",
     "quickfeet",
-    "h:rattled"
+    "h:guts"
   ],
   "eggGroups": [
     "field",
@@ -27,8 +27,8 @@
     "attack": 120,
     "defence": 75,
     "special_attack": 60,
-    "special_defence": 60,
-    "speed": 45
+    "special_defence": 70,
+    "speed": 65
   },
   "evYield": {
     "hp": 0,

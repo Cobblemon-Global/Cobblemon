@@ -15,9 +15,9 @@
   ],
   "aspects": [],
   "abilities": [
+    "technician",
     "effectspore",
-    "poisonheal",
-    "h:technician"
+    "h:poisonheal"
   ],
   "eggGroups": [
     "fairy",

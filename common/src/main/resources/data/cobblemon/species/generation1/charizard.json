@@ -50,48 +50,48 @@
     "fixed": false
   },
   "riding": {
-	"stats": {
-	      "SPEED": {
-	        "displayName": "Speed",
-	        "description": "Its top speed",
-	        "ranges": {
-	          "LAND": "10-20",
-	          "AIR": "25-50"
-	        }
-	      },
-	      "ACCELERATION": {
-	        "displayName": "Acceleration",
-	        "description": "How fast it can speed up",
-	        "ranges": {
-	          "LAND": "90-100",
-	          "AIR": "20-40"
-	        }
-	      },
-	      "SKILL": {
-	        "displayName": "Handling",
-	        "description": "How fast it can turn",
-	        "ranges": {
-	          "LAND": "15-30",
-	          "AIR": "50-100"
-	        }
-	      },
-	      "JUMP": {
-	        "displayName": "Altitude",
-	        "description": "How high it can fly",
-	        "ranges": {
-	          "LAND": "10-20",
-	          "AIR": "25-50"
-	        }
-	      },
-	      "STAMINA": {
-	        "displayName": "Fuel/Stamina",
-	        "description": "How long it can stay off the ground",
-	        "ranges": {
-	          "LAND": "15-30",
-	          "AIR": "35-70"
-	        }
-	      }
-	    },
+    "stats": {
+      "SPEED": {
+        "displayName": "Speed",
+        "description": "Its top speed",
+        "ranges": {
+          "LAND": "10-20",
+          "AIR": "25-50"
+        }
+      },
+      "ACCELERATION": {
+        "displayName": "Acceleration",
+        "description": "How fast it can speed up",
+        "ranges": {
+          "LAND": "90-100",
+          "AIR": "20-40"
+        }
+      },
+      "SKILL": {
+        "displayName": "Handling",
+        "description": "How fast it can turn",
+        "ranges": {
+          "LAND": "15-30",
+          "AIR": "50-100"
+        }
+      },
+      "JUMP": {
+        "displayName": "Altitude",
+        "description": "How high it can fly",
+        "ranges": {
+          "LAND": "10-20",
+          "AIR": "25-50"
+        }
+      },
+      "STAMINA": {
+        "displayName": "Fuel/Stamina",
+        "description": "How long it can stay off the ground",
+        "ranges": {
+          "LAND": "15-30",
+          "AIR": "35-70"
+        }
+      }
+    },
     "behaviour": {
       "key": "cobblemon:composite",
       "transitionStrategy": "cobblemon:strategy/jump",

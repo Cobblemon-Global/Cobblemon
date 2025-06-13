@@ -15,8 +15,7 @@
   ],
   "aspects": [],
   "abilities": [
-    "noguard",
-    "h:noguard"
+    "noguard"
   ],
   "eggGroups": [
     "mineral"

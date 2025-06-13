@@ -2,7 +2,7 @@
   "implemented": true,
   "nationalPokedexNumber": 836,
   "name": "Boltund",
-  "primaryType": "electric",
+  "primaryType": "normal",
   "maleRatio": 0.5,
   "height": 10,
   "weight": 340,
@@ -150,5 +150,6 @@
     "tutor:wildcharge"
   ],
   "preEvolution": "yamper",
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "electric"
 }

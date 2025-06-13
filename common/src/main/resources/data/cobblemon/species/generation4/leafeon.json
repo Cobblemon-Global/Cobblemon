@@ -14,8 +14,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "leafguard",
-    "h:chlorophyll"
+    "chlorophyll",
+    "h:sharpness"
   ],
   "eggGroups": [
     "field"

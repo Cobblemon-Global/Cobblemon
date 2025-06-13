@@ -14,8 +14,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "pickup",
     "quickfeet",
+    "guts",
     "h:honeygather"
   ],
   "eggGroups": [

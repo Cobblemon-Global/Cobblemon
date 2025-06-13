@@ -15,9 +15,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "sturdy",
     "rockhead",
-    "h:rattled"
+    "sturdy",
+    "h:disguise"
   ],
   "eggGroups": [
     "undiscovered"

@@ -16,8 +16,7 @@
   "aspects": [],
   "abilities": [
     "levitate",
-    "neutralizinggas",
-    "h:stench"
+    "h:neutralizinggas"
   ],
   "eggGroups": [
     "amorphous"

@@ -15,8 +15,7 @@
   ],
   "aspects": [],
   "abilities": [
-    "toxicchain",
-    "h:guarddog"
+    "toxicchain"
   ],
   "eggGroups": [
     "undiscovered"

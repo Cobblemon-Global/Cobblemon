@@ -15,8 +15,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "hypercutter",
     "intimidate",
+    "hypercutter",
     "h:sheerforce"
   ],
   "eggGroups": [

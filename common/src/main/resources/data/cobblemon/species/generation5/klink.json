@@ -14,9 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
+    "clearbody",
     "plus",
-    "minus",
-    "h:clearbody"
+    "h:levitate"
   ],
   "eggGroups": [
     "mineral"

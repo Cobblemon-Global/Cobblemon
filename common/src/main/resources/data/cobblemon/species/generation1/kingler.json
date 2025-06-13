@@ -14,7 +14,6 @@
   ],
   "aspects": [],
   "abilities": [
-    "hypercutter",
     "shellarmor",
     "h:sheerforce"
   ],
@@ -214,5 +213,6 @@
       "evolutions": [],
       "battleOnly": true
     }
-  ]
+  ],
+  "secondaryType": "steel"
 }

@@ -15,7 +15,8 @@
   "aspects": [],
   "abilities": [
     "flamebody",
-    "h:vitalspirit"
+    "vitalspirit",
+    "h:megalauncher"
   ],
   "eggGroups": [
     "human_like"
@@ -193,5 +194,6 @@
     "tutor:uproar"
   ],
   "preEvolution": "magmar",
-  "evolutions": []
+  "evolutions": [],
+  "secondaryType": "fighting"
 }

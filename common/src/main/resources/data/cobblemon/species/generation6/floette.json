@@ -17,7 +17,8 @@
   ],
   "abilities": [
     "flowerveil",
-    "h:symbiosis"
+    "symbiosis",
+    "h:flowergift"
   ],
   "eggGroups": [
     "fairy"

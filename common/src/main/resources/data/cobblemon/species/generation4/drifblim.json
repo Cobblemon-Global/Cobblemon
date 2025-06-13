@@ -23,12 +23,12 @@
     "amorphous"
   ],
   "baseStats": {
-    "hp": 150,
+    "hp": 160,
     "attack": 80,
-    "defence": 44,
+    "defence": 54,
     "special_attack": 90,
     "special_defence": 54,
-    "speed": 80
+    "speed": 85
   },
   "evYield": {
     "hp": 2,

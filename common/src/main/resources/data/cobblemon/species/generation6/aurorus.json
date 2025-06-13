@@ -16,8 +16,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "refrigerate",
-    "h:snowwarning"
+    "refridgerate",
+    "h:prankster"
   ],
   "eggGroups": [
     "monster"
@@ -26,7 +26,7 @@
     "hp": 123,
     "attack": 77,
     "defence": 72,
-    "special_attack": 99,
+    "special_attack": 103,
     "special_defence": 92,
     "speed": 58
   },

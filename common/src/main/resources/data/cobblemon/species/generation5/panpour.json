@@ -14,8 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "gluttony",
-    "h:torrent"
+    "torrent",
+    "stormdrain",
+    "h:tintedlens"
   ],
   "eggGroups": [
     "field"

@@ -15,6 +15,7 @@
   "aspects": [],
   "abilities": [
     "sandveil",
+    "sandrush",
     "h:waterabsorb"
   ],
   "eggGroups": [
@@ -219,5 +220,6 @@
         }
       ]
     }
-  ]
+  ],
+  "secondaryType": "dark"
 }

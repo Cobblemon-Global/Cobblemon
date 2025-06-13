@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "clearbody",
-    "h:lightmetal"
+    "lightmetal",
+    "h:ironfist"
   ],
   "eggGroups": [
     "mineral"

@@ -15,7 +15,8 @@
   "aspects": [],
   "abilities": [
     "overgrow",
-    "h:leafguard"
+    "naturalcure",
+    "h:triage"
   ],
   "eggGroups": [
     "monster",

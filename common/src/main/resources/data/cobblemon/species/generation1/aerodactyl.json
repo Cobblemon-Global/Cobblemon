@@ -16,9 +16,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "rockhead",
     "pressure",
-    "h:unnerve"
+    "h:rockhead"
   ],
   "eggGroups": [
     "flying"

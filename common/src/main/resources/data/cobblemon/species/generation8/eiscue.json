@@ -17,8 +17,7 @@
     "ice_face"
   ],
   "abilities": [
-    "iceface",
-    "h:iceface"
+    "iceface"
   ],
   "eggGroups": [
     "water_1",
@@ -27,10 +26,10 @@
   "baseStats": {
     "hp": 75,
     "attack": 80,
-    "defence": 110,
+    "defence": 70,
     "special_attack": 65,
-    "special_defence": 90,
-    "speed": 50
+    "special_defence": 50,
+    "speed": 130
   },
   "evYield": {
     "hp": 0,

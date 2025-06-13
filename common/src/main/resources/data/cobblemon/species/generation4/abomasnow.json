@@ -14,8 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "snowwarning",
-    "h:soundproof"
+    "soundproof",
+    "evergreen",
+    "h:slushrush"
   ],
   "eggGroups": [
     "monster",

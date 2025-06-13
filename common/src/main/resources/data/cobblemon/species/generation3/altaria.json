@@ -15,7 +15,8 @@
   "aspects": [],
   "abilities": [
     "naturalcure",
-    "h:cloudnine"
+    "cloudnine",
+    "h:fluffy"
   ],
   "eggGroups": [
     "flying",

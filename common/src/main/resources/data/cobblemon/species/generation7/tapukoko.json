@@ -15,8 +15,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "electricsurge",
-    "h:telepathy"
+    "telepathy",
+    "h:electricsurge"
   ],
   "eggGroups": [
     "undiscovered"

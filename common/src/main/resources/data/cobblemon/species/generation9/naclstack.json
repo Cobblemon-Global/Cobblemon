@@ -14,9 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "purifyingsalt",
+    "clearbody",
     "sturdy",
-    "h:clearbody"
+    "h:purifyingsalt"
   ],
   "eggGroups": [
     "mineral"

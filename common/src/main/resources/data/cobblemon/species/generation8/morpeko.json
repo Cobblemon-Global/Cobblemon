@@ -16,8 +16,7 @@
     "full_belly-mode"
   ],
   "abilities": [
-    "hungerswitch",
-    "h:hungerswitch"
+    "hungerswitch"
   ],
   "eggGroups": [
     "field",

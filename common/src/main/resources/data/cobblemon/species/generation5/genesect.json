@@ -15,8 +15,7 @@
   ],
   "aspects": [],
   "abilities": [
-    "download",
-    "h:download"
+    "download"
   ],
   "eggGroups": [
     "undiscovered"

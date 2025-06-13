@@ -16,7 +16,7 @@
   "aspects": [],
   "abilities": [
     "flashfire",
-    "h:drought"
+    "h:magicguard"
   ],
   "eggGroups": [
     "field"
@@ -386,5 +386,6 @@
       "evolutions": [],
       "battleOnly": false
     }
-  ]
+  ],
+  "secondaryType": "psychic"
 }

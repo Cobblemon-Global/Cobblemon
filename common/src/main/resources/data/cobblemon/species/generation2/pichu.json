@@ -17,7 +17,8 @@
   "aspects": [],
   "abilities": [
     "static",
-    "h:lightningrod"
+    "lightningrod",
+    "h:minus"
   ],
   "eggGroups": [
     "undiscovered"

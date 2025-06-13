@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "wimpout",
-    "h:wimpout"
+    "shellarmor",
+    "h:runaway"
   ],
   "eggGroups": [
     "bug",

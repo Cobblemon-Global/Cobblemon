@@ -2,8 +2,8 @@
   "implemented": true,
   "nationalPokedexNumber": 48,
   "name": "Venonat",
-  "primaryType": "bug",
-  "secondaryType": "poison",
+  "primaryType": "poison",
+  "secondaryType": "bug",
   "maleRatio": 0.5,
   "height": 10,
   "weight": 300,
@@ -16,8 +16,8 @@
   "aspects": [],
   "abilities": [
     "compoundeyes",
-    "tintedlens",
-    "h:runaway"
+    "wonderskin",
+    "h:tintedlens"
   ],
   "eggGroups": [
     "bug"

@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "flashfire",
-    "h:flamebody"
+    "flamebody",
+    "h:heavymetal"
   ],
   "eggGroups": [
     "undiscovered"

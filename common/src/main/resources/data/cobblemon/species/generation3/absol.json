@@ -14,9 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "pressure",
     "superluck",
-    "h:justified"
+    "justified",
+    "h:sharpness"
   ],
   "eggGroups": [
     "field"

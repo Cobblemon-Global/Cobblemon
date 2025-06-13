@@ -14,9 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "intimidate",
     "shedskin",
-    "h:unnerve"
+    "intimidate",
+    "h:strongjaw"
   ],
   "eggGroups": [
     "field",

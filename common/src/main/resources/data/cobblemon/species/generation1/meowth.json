@@ -17,7 +17,7 @@
   "abilities": [
     "pickup",
     "technician",
-    "h:unnerve"
+    "h:rattled"
   ],
   "eggGroups": [
     "field"

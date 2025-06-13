@@ -51,8 +51,7 @@
   },
   "behaviour": {
     "fireImmune": true,
-    "moving": {
-    }
+    "moving": {}
   },
   "drops": {
     "amount": 2,

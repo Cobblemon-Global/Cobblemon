@@ -14,8 +14,8 @@
   "aspects": [],
   "abilities": [
     "healer",
-    "regenerator",
-    "h:klutz"
+    "naturalcure",
+    "h:regenerator"
   ],
   "eggGroups": [
     "fairy"

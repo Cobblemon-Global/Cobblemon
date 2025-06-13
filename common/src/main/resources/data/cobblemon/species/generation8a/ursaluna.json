@@ -2,8 +2,8 @@
   "implemented": true,
   "nationalPokedexNumber": 901,
   "name": "Ursaluna",
-  "primaryType": "ground",
-  "secondaryType": "normal",
+  "primaryType": "normal",
+  "secondaryType": "ground",
   "maleRatio": 0.5,
   "height": 24,
   "weight": 2900,
@@ -15,9 +15,9 @@
   ],
   "aspects": [],
   "abilities": [
-    "guts",
     "bulletproof",
-    "h:unnerve"
+    "unnerve",
+    "h:guts"
   ],
   "eggGroups": [
     "field"

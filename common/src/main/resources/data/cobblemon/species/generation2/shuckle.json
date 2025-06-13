@@ -23,10 +23,10 @@
     "bug"
   ],
   "baseStats": {
-    "hp": 20,
+    "hp": 30,
     "attack": 10,
     "defence": 230,
-    "special_attack": 10,
+    "special_attack": 5,
     "special_defence": 230,
     "speed": 5
   },

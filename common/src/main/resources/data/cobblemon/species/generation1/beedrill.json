@@ -16,6 +16,7 @@
   "aspects": [],
   "abilities": [
     "swarm",
+    "hypercutter",
     "h:sniper"
   ],
   "eggGroups": [

@@ -16,8 +16,8 @@
   "aspects": [],
   "abilities": [
     "keeneye",
-    "hydration",
-    "h:raindish"
+    "waterbubble",
+    "h:lightningrod"
   ],
   "eggGroups": [
     "water_1",

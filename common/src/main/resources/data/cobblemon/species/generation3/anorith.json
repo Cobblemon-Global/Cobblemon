@@ -17,7 +17,8 @@
   "aspects": [],
   "abilities": [
     "battlearmor",
-    "h:swiftswim"
+    "swiftswim",
+    "h:toughclaws"
   ],
   "eggGroups": [
     "water_3"

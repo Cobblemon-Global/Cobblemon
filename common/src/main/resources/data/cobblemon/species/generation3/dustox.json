@@ -15,7 +15,8 @@
   "aspects": [],
   "abilities": [
     "shielddust",
-    "h:compoundeyes"
+    "compoundeyes",
+    "h:multiscale"
   ],
   "eggGroups": [
     "bug"

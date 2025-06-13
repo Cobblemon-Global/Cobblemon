@@ -14,8 +14,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "flashfire",
-    "h:guts"
+    "guts",
+    "h:rockhead"
   ],
   "eggGroups": [
     "field"
@@ -24,9 +24,9 @@
     "hp": 65,
     "attack": 130,
     "defence": 60,
-    "special_attack": 95,
+    "special_attack": 65,
     "special_defence": 110,
-    "speed": 65
+    "speed": 95
   },
   "evYield": {
     "hp": 0,

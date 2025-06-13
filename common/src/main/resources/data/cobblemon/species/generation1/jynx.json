@@ -23,12 +23,12 @@
     "human_like"
   ],
   "baseStats": {
-    "hp": 65,
-    "attack": 50,
-    "defence": 35,
+    "hp": 75,
+    "attack": 60,
+    "defence": 45,
     "special_attack": 115,
     "special_defence": 95,
-    "speed": 95
+    "speed": 100
   },
   "evYield": {
     "hp": 0,

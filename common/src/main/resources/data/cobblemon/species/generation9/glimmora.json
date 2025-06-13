@@ -15,8 +15,8 @@
   ],
   "aspects": [],
   "abilities": [
-    "toxicdebris",
-    "h:corrosion"
+    "corrosion",
+    "h:toxicdebris"
   ],
   "eggGroups": [
     "mineral"

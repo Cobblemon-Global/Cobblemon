@@ -17,16 +17,17 @@
   "aspects": [],
   "abilities": [
     "suctioncups",
+    "waterabsorb",
     "h:stormdrain"
   ],
   "eggGroups": [
     "water_3"
   ],
   "baseStats": {
-    "hp": 86,
-    "attack": 81,
+    "hp": 96,
+    "attack": 91,
     "defence": 97,
-    "special_attack": 81,
+    "special_attack": 91,
     "special_defence": 107,
     "speed": 43
   },

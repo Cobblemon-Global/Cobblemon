@@ -16,7 +16,8 @@
   "aspects": [],
   "abilities": [
     "sandveil",
-    "h:sandrush"
+    "sandrush",
+    "h:toughclaws"
   ],
   "eggGroups": [
     "field"

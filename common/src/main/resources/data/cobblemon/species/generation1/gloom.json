@@ -16,7 +16,7 @@
   "aspects": [],
   "abilities": [
     "chlorophyll",
-    "h:stench"
+    "h:effectspore"
   ],
   "eggGroups": [
     "grass"

@@ -14,9 +14,9 @@
   ],
   "aspects": [],
   "abilities": [
+    "quickfeet",
     "effectspore",
-    "poisonheal",
-    "h:quickfeet"
+    "h:poisonheal"
   ],
   "eggGroups": [
     "fairy",

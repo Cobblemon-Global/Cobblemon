@@ -17,8 +17,7 @@
   ],
   "aspects": [],
   "abilities": [
-    "airlock",
-    "h:airlock"
+    "airlock"
   ],
   "eggGroups": [
     "undiscovered"

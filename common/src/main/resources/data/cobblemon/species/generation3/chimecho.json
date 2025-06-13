@@ -15,13 +15,13 @@
   "aspects": [],
   "abilities": [
     "levitate",
-    "h:levitate"
+    "h:prankster"
   ],
   "eggGroups": [
     "amorphous"
   ],
   "baseStats": {
-    "hp": 75,
+    "hp": 85,
     "attack": 50,
     "defence": 80,
     "special_attack": 95,
